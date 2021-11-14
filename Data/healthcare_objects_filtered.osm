@@ -1,0 +1,1229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="20.44671" minlat="40.84759" maxlon="23.04012" maxlat="42.37969" origin=""/>
+  <node id="367675829" version="5" timestamp="2018-07-11T19:03:50Z" uid="0" user="" lat="42.0061233" lon="21.3816633">
+    <tag k="name" v="Ремедиум"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Remedium"/>
+  </node>
+  <node id="380920212" version="2" timestamp="2017-11-12T05:02:36Z" uid="0" user="" lat="41.4439681" lon="22.0202441">
+    <tag k="name" v="ЈЗУ Општа Болница"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Jzu Opsta Bolnica"/>
+  </node>
+  <node id="381141682" version="5" timestamp="2020-04-16T06:50:40Z" uid="0" user="" lat="41.4331879" lon="22.018682">
+    <tag k="name" v="Itna medicinska sluzba"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="382650837" version="4" timestamp="2013-05-24T10:48:19Z" uid="0" user="" lat="41.436649" lon="22.0111728">
+    <tag k="name" v="Flora"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="390436187" version="5" timestamp="2015-01-22T16:15:20Z" uid="0" user="" lat="41.1128747" lon="20.8069305">
+    <tag k="name" v="Брза помош-амбуланта"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="addr:city" v="Охрид"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="addr:street" v="Димитар Влахов"/>
+    <tag k="addr:postcode" v="6000"/>
+  </node>
+  <node id="443017399" version="3" timestamp="2012-08-22T23:36:35Z" uid="0" user="" lat="41.9954834" lon="21.5039025">
+    <tag k="name" v="Градска Аптека Маџари"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="int_name" v="Gradska Apteka Madžari"/>
+    <tag k="dispensing" v="yes"/>
+  </node>
+  <node id="444938811" version="6" timestamp="2021-01-19T13:10:52Z" uid="0" user="" lat="41.9984708" lon="21.4226797">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Зегин"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="444994545" version="3" timestamp="2012-08-10T14:13:12Z" uid="0" user="" lat="42.0023086" lon="21.4626489">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="446285567" version="4" timestamp="2016-04-18T15:12:29Z" uid="0" user="" lat="41.9988883" lon="21.391876">
+    <tag k="name" v="Систина"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="459673288" version="2" timestamp="2009-10-31T01:22:34Z" uid="0" user="" lat="41.9932326" lon="21.4154083">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="464772764" version="1" timestamp="2009-08-13T22:20:56Z" uid="0" user="" lat="42.19562" lon="22.3213986">
+    <tag k="name" v="Bolnica Primarius D-r. Dimitar Arsov"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="464772766" version="2" timestamp="2009-08-25T18:08:40Z" uid="0" user="" lat="42.1966304" lon="22.3218094">
+    <tag k="name" v="Melisa"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="no"/>
+  </node>
+  <node id="473903011" version="2" timestamp="2012-01-04T07:12:38Z" uid="0" user="" lat="42.2026734" lon="22.3352996">
+    <tag k="name" v="City pharmacy"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:mk" v="Градска аптека"/>
+    <tag k="dispensing" v="no"/>
+  </node>
+  <node id="478041008" version="2" timestamp="2009-10-13T07:33:43Z" uid="0" user="" lat="41.4334419" lon="22.0143343">
+    <tag k="name" v="Asklepij"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="478041069" version="1" timestamp="2009-08-30T21:36:59Z" uid="0" user="" lat="41.4335225" lon="22.0114671">
+    <tag k="name" v="Flora"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="no"/>
+  </node>
+  <node id="479803481" version="5" timestamp="2017-11-20T19:15:02Z" uid="0" user="" lat="42.006422" lon="21.3825263">
+    <tag k="name" v="Eye Center VIZIA"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="484691167" version="2" timestamp="2009-09-10T12:24:22Z" uid="0" user="" lat="41.9943778" lon="21.5084304">
+    <tag k="name" v="Intergral Farm"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+  </node>
+  <node id="497549513" version="2" timestamp="2013-09-26T02:29:24Z" uid="0" user="" lat="41.7085" lon="22.85145">
+    <tag k="name" v="Амбуланта"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Health centre"/>
+  </node>
+  <node id="498850840" version="4" timestamp="2018-01-14T15:25:17Z" uid="0" user="" lat="41.9972254" lon="21.4373274">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="int_name" v="Zegin"/>
+  </node>
+  <node id="529807927" version="1" timestamp="2009-10-13T07:51:47Z" uid="0" user="" lat="41.4352758" lon="22.0112529">
+    <tag k="name" v="Flora"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="529810682" version="1" timestamp="2009-10-13T08:05:42Z" uid="0" user="" lat="41.4383709" lon="22.0102316">
+    <tag k="name" v="Flora"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="529811233" version="2" timestamp="2010-09-15T07:02:39Z" uid="0" user="" lat="41.4345186" lon="22.0177763">
+    <tag k="name" v="Flora"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="568024520" version="5" timestamp="2009-11-21T19:21:52Z" uid="0" user="" lat="41.181565" lon="20.6795882">
+    <tag k="name" v="SANITA"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="568024688" version="3" timestamp="2013-04-24T13:09:03Z" uid="0" user="" lat="41.1810946" lon="20.6791796">
+    <tag k="name" v="City hospital"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="774775223" version="2" timestamp="2016-10-29T18:01:50Z" uid="0" user="" lat="41.0880394" lon="21.0118055">
+    <tag k="name" v="Farmalek 2005"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Фарма лек"/>
+    <tag k="name:mk" v="Farmalek 2005"/>
+  </node>
+  <node id="774777038" version="3" timestamp="2010-06-17T13:42:34Z" uid="0" user="" lat="41.0910636" lon="21.0131144">
+    <tag k="name" v="Epoha"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="774779901" version="1" timestamp="2010-06-17T13:43:22Z" uid="0" user="" lat="41.0920662" lon="21.0122775">
+    <tag k="name" v="Anafarm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="774784615" version="4" timestamp="2017-07-21T22:26:32Z" uid="0" user="" lat="41.0899619" lon="21.0073455">
+    <tag k="name" v="Здравствен дом Ресен"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:mk" v="Здравствен дом Ресен"/>
+  </node>
+  <node id="913077744" version="1" timestamp="2010-09-15T07:02:40Z" uid="0" user="" lat="41.4345629" lon="22.0172506">
+    <tag k="name" v="Remedia"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="913077746" version="1" timestamp="2010-09-15T07:02:40Z" uid="0" user="" lat="41.4343618" lon="22.0161241">
+    <tag k="name" v="Echo"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1272903523" version="1" timestamp="2011-05-05T09:05:38Z" uid="0" user="" lat="41.8872494" lon="22.510037">
+    <tag k="name" v="Bolnica Vinica"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="1381604857" version="1" timestamp="2011-08-01T09:41:52Z" uid="0" user="" lat="41.9703449" lon="21.442001">
+    <tag k="name" v="Болница за зависности"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="1381606894" version="2" timestamp="2011-08-11T13:53:55Z" uid="0" user="" lat="41.986937" lon="21.4346369">
+    <tag k="name" v="Адриалаб"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="1382090803" version="2" timestamp="2012-05-10T18:44:39Z" uid="0" user="" lat="41.9835895" lon="21.4295599">
+    <tag k="name" v="Apteka Biofit"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+  </node>
+  <node id="1382090805" version="1" timestamp="2011-08-01T19:10:25Z" uid="0" user="" lat="41.9940569" lon="21.4008928">
+    <tag k="name" v="Apteka Biofit"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+  </node>
+  <node id="1615832328" version="7" timestamp="2018-11-25T10:40:15Z" uid="0" user="" lat="42.0032564" lon="21.3978776">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="name:mk" v="Зегин"/>
+  </node>
+  <node id="1615847558" version="4" timestamp="2018-01-11T17:26:53Z" uid="0" user="" lat="42.0034289" lon="21.3985661">
+    <tag k="name" v="Херба"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1652699470" version="4" timestamp="2012-02-29T11:17:40Z" uid="0" user="" lat="41.9919776" lon="21.4219509">
+    <tag k="name" v="Уни Медикал"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Бел камен"/>
+    <tag k="addr:housenumber" v="9"/>
+  </node>
+  <node id="1747986303" version="2" timestamp="2012-08-14T16:57:48Z" uid="0" user="" lat="41.9869002" lon="21.4308199">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="1850511011" version="2" timestamp="2021-08-03T05:26:17Z" uid="0" user="" lat="42.0601589" lon="21.4501059">
+    <tag k="amenity" v="hospital"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="name" v="Манолеви"/>
+  </node>
+  <node id="1855982570" version="3" timestamp="2021-04-02T08:46:05Z" uid="0" user="" lat="42.0161642" lon="21.4403511">
+    <tag k="addr:street" v="Ќемал Сејфула"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Еурофарм"/>
+  </node>
+  <node id="1857472128" version="4" timestamp="2021-02-22T11:27:11Z" uid="0" user="" lat="42.0101421" lon="21.4610369">
+    <tag k="amenity" v="dentist"/>
+    <tag k="email" v="prodentika@t-home.mk"/>
+    <tag k="name" v="PZU Prodentika"/>
+    <tag k="phone" v="+38970498771"/>
+  </node>
+  <node id="1999950864" version="2" timestamp="2019-06-17T15:43:10Z" uid="0" user="" lat="41.408624" lon="22.2415389">
+    <tag k="name" v="Ambulanta"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+  </node>
+  <node id="2294320035" version="2" timestamp="2015-11-11T14:01:59Z" uid="0" user="" lat="41.9960357" lon="21.4078311">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="2362912161" version="3" timestamp="2021-04-12T13:46:22Z" uid="0" user="" lat="42.0026568" lon="21.4053418">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Аптека Ремедиум Лек"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-21:00; Su off; Sa 08:00-16:00"/>
+  </node>
+  <node id="2373004497" version="1" timestamp="2013-07-04T08:03:08Z" uid="0" user="" lat="40.9990844" lon="21.3702482">
+    <tag k="name" v="Диагностички центар св.Спас"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="addr:city" v="Битола"/>
+    <tag k="emergency" v="no"/>
+    <tag k="addr:postcode" v="7000"/>
+  </node>
+  <node id="2405915015" version="4" timestamp="2019-07-16T01:27:36Z" uid="0" user="" lat="41.4391631" lon="22.6436636">
+    <tag k="name" v="Здравствен Дом Струмица"/>
+    <tag k="source" v="surway"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="designation" v="Здравствен дом"/>
+  </node>
+  <node id="2410445420" version="14" timestamp="2021-02-22T11:21:15Z" uid="0" user="" lat="41.9398843" lon="21.5134781">
+    <tag k="addr:city" v="Skopje"/>
+    <tag k="addr:housename" v="PZU D-r Saltamarski"/>
+    <tag k="addr:housenumber" v="D-r Saltamarski"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Иван Хаџиниколов"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="ele" v="0"/>
+    <tag k="int_name" v="Dr.Saltamarski"/>
+    <tag k="name" v="ПЗУ Д-р Салтамарски"/>
+    <tag k="name:en" v="Saltamarski"/>
+    <tag k="note" v="Dental office"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa-Su &quot;by appoinment&quot;"/>
+    <tag k="phone" v="+38971385416"/>
+    <tag k="short_name" v="Saltamarski"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2411245246" version="2" timestamp="2016-09-16T22:06:49Z" uid="0" user="" lat="41.1717857" lon="22.4907252">
+    <tag k="name" v="Негорски Бањи"/>
+    <tag k="email" v="info@negorskibanji.com.mk"/>
+    <tag k="phone" v="0038934231174"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Negorski Spa"/>
+    <tag k="name:mk" v="Негорски Бањи"/>
+    <tag k="website" v="http://www.negorskibanji.com.mk"/>
+    <tag k="addr:postcode" v="1480"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="internet_access" v="wlan"/>
+  </node>
+  <node id="2545342992" version="2" timestamp="2019-02-28T12:30:31Z" uid="0" user="" lat="40.9776464" lon="20.9139859">
+    <tag k="name" v="ЈЗУ Завод за превенција лекување и рехабилитација на хронични респираторни неспецифични заболувања, Отешево"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="PHI Institute for Prevention Treatment and Rehabilitation of Chronic Respiratory Nonspecific Diseases, Oteševo"/>
+  </node>
+  <node id="2574157872" version="1" timestamp="2013-12-10T09:52:27Z" uid="0" user="" lat="41.3156008" lon="22.5564969">
+    <tag k="name" v="JZU Zdravstven dom Valandovo"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="addr:city" v="Valandovo"/>
+    <tag k="emergency" v="yes"/>
+  </node>
+  <node id="2578824879" version="1" timestamp="2013-12-13T23:38:07Z" uid="0" user="" lat="41.9811356" lon="21.4324038">
+    <tag k="name" v="Аптека Виола"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="2601311980" version="4" timestamp="2021-09-26T19:24:44Z" uid="0" user="" lat="42.0032478" lon="21.4078707">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Betty"/>
+  </node>
+  <node id="2670727606" version="1" timestamp="2014-02-13T21:48:48Z" uid="0" user="" lat="41.435179" lon="22.6393219">
+    <tag k="name" v="Стара Градска болница"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="2919825967" version="1" timestamp="2014-06-17T06:17:49Z" uid="0" user="" lat="41.8301443" lon="20.9672997">
+    <tag k="name" v="Menti Farm Barnatore"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3022331502" version="1" timestamp="2014-08-17T14:01:28Z" uid="0" user="" lat="42.2040261" lon="22.3349122">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:city" v="Kriva Palanka"/>
+    <tag k="addr:street" v="Sveti Joakim Osogovski"/>
+    <tag k="addr:postcode" v="1330"/>
+  </node>
+  <node id="3022359063" version="2" timestamp="2019-05-25T00:23:24Z" uid="0" user="" lat="42.2050632" lon="22.3340869">
+    <tag k="name" v="Пензионерски здравствен дом"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Retirement Health Clinic"/>
+    <tag k="int_name" v="Penzionerski zdravsten dom"/>
+    <tag k="addr:city" v="Kriva Palanka"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="addr:street" v="Illidenska"/>
+    <tag k="addr:postcode" v="1330"/>
+  </node>
+  <node id="3099334941" version="1" timestamp="2014-09-27T20:45:17Z" uid="0" user="" lat="41.9910923" lon="21.4460324">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3104012020" version="2" timestamp="2018-07-01T09:42:26Z" uid="0" user="" lat="41.9943079" lon="21.4311375">
+    <tag k="name" v="Eуpoфapм"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Eurofarm"/>
+  </node>
+  <node id="3187744358" version="1" timestamp="2014-11-15T01:27:44Z" uid="0" user="" lat="41.637649" lon="22.464886">
+    <tag k="name" v="Medea"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3606658843" version="5" timestamp="2020-11-20T09:17:00Z" uid="0" user="" lat="42.0050186" lon="21.3834081">
+    <tag k="addr:city" v="Скопје"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Булевар Партизански Одреди"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Зегин (Карпош 4)"/>
+  </node>
+  <node id="3625167305" version="4" timestamp="2020-06-06T17:18:48Z" uid="0" user="" lat="41.3442389" lon="21.5506013">
+    <tag k="name" v="Д-р Караџоски"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Dr Karadzhoski"/>
+    <tag k="healthcare" v="dentist"/>
+  </node>
+  <node id="3625183275" version="1" timestamp="2015-06-29T12:41:33Z" uid="0" user="" lat="41.3437361" lon="21.5488881">
+    <tag k="name" v="Кристал Дент"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="3629405142" version="1" timestamp="2015-07-01T15:42:13Z" uid="0" user="" lat="41.3426665" lon="21.543979">
+    <tag k="name" v="Дентика"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="3634182103" version="2" timestamp="2015-07-12T13:43:59Z" uid="0" user="" lat="42.0009171" lon="21.3902099">
+    <tag k="name" v="ЕуроФарм Тафталиџе"/>
+    <tag k="email" v="taftalidze@eurofarm.com.mk"/>
+    <tag k="phone" v="+389 2 3079378"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Eurofarm Taftalidze"/>
+    <tag k="website" v="http://www.eurofarm.com.mk"/>
+    <tag k="operator" v="ЕУРО-ФАРМ"/>
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="addr:street" v="Лондонска"/>
+    <tag k="addr:city:en" v="Skopje"/>
+    <tag k="addr:country" v="MK"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-22:00; Su 08:00-14:00"/>
+    <tag k="addr:street:en" v="Londonska"/>
+    <tag k="addr:housenumber" v="бб"/>
+  </node>
+  <node id="3647042375" version="1" timestamp="2015-07-12T08:17:06Z" uid="0" user="" lat="42.1197425" lon="21.7343791">
+    <tag k="name" v="Poliklinika &quot;Goce Delcev&quot;"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="3695356142" version="3" timestamp="2018-01-20T11:56:44Z" uid="0" user="" lat="41.9651427" lon="22.779019">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="addr:city" v="Делчево"/>
+    <tag k="addr:street" v="бул. Македонија"/>
+    <tag k="addr:postcode" v="2320"/>
+  </node>
+  <node id="3700058029" version="2" timestamp="2015-08-19T20:21:14Z" uid="0" user="" lat="41.9663936" lon="22.7751349">
+    <tag k="name" v="Твоја Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Tvoja Apteka"/>
+    <tag k="addr:city" v="Делчево"/>
+    <tag k="addr:street" v="бул. Методи Митевски Брицо"/>
+    <tag k="addr:postcode" v="2320"/>
+  </node>
+  <node id="3700058030" version="4" timestamp="2018-01-02T19:50:54Z" uid="0" user="" lat="41.9665995" lon="22.7754332">
+    <tag k="name" v="Дел Фарм"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Del Farm"/>
+    <tag k="addr:city" v="Делчево"/>
+    <tag k="addr:street" v="бул. Методи Митевски Брицо"/>
+    <tag k="addr:postcode" v="2320"/>
+  </node>
+  <node id="3700058031" version="3" timestamp="2018-01-20T12:17:34Z" uid="0" user="" lat="41.9648802" lon="22.7800854">
+    <tag k="name" v="Валеријана"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Valerijana"/>
+    <tag k="addr:city" v="Делчево"/>
+    <tag k="addr:street" v="М.М. Брицо"/>
+    <tag k="addr:postcode" v="2320"/>
+  </node>
+  <node id="3700058032" version="2" timestamp="2018-01-04T15:34:17Z" uid="0" user="" lat="41.9650374" lon="22.7718677">
+    <tag k="name" v="Кетрин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Ketrin"/>
+  </node>
+  <node id="3816919343" version="1" timestamp="2015-11-04T11:30:41Z" uid="0" user="" lat="42.0256469" lon="21.376799">
+    <tag k="name" v="Eurofarm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3828411466" version="1" timestamp="2015-11-10T11:18:50Z" uid="0" user="" lat="41.7162366" lon="21.7830089">
+    <tag k="name" v="Еуро Фарм"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3830375935" version="1" timestamp="2015-11-11T09:51:12Z" uid="0" user="" lat="41.9820014" lon="21.4735236">
+    <tag k="name" v="ZEGIN"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3832362529" version="2" timestamp="2015-11-12T10:47:56Z" uid="0" user="" lat="41.9899658" lon="21.419838">
+    <tag k="name" v="Виола"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="3832368052" version="1" timestamp="2015-11-12T10:47:55Z" uid="0" user="" lat="41.9898127" lon="21.4196296">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4125379517" version="4" timestamp="2017-12-01T23:11:34Z" uid="0" user="" lat="42.0009982" lon="21.4128098">
+    <tag k="name" v="Центар за ментално здравје"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Center for mental health"/>
+    <tag k="operator" v="Министерство за здравство"/>
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:street" v="Булевар Партизански Одреди"/>
+    <tag k="addr:postcode" v="1000"/>
+  </node>
+  <node id="4125379518" version="3" timestamp="2017-12-01T23:11:34Z" uid="0" user="" lat="42.0010726" lon="21.4130411">
+    <tag k="name" v="ПЗУ „Д-р Горица“"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="PZU &quot;D-r Gorica&quot;"/>
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:street" v="Булевар Партизански Одреди"/>
+    <tag k="addr:postcode" v="1000"/>
+  </node>
+  <node id="4138200603" version="3" timestamp="2018-04-13T14:33:52Z" uid="0" user="" lat="42.0005964" lon="21.4145316">
+    <tag k="name" v="Неуромедика"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Neuromedika"/>
+  </node>
+  <node id="4247656089" version="1" timestamp="2016-06-17T00:41:23Z" uid="0" user="" lat="41.8353984" lon="20.8824258">
+    <tag k="name" v="Hospital"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="addr:postcode" v="1238"/>
+  </node>
+  <node id="4247664089" version="1" timestamp="2016-06-17T01:09:44Z" uid="0" user="" lat="41.7964971" lon="20.9078402">
+    <tag k="name" v="Pharmacy"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4249193094" version="3" timestamp="2019-03-19T19:13:26Z" uid="0" user="" lat="41.7386419" lon="22.1948598">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4249277789" version="6" timestamp="2019-03-19T22:16:42Z" uid="0" user="" lat="41.7379036" lon="22.1932659">
+    <tag k="name" v="ЈАКА"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4264292908" version="1" timestamp="2016-06-25T10:59:48Z" uid="0" user="" lat="42.00965" lon="21.3602038">
+    <tag k="name" v="Астра Фарм"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Astra Farm"/>
+    <tag k="addr:street" v="4 Јули"/>
+  </node>
+  <node id="4266034098" version="1" timestamp="2016-06-26T12:03:23Z" uid="0" user="" lat="41.9850045" lon="21.4377527">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4266843472" version="2" timestamp="2016-06-27T06:37:15Z" uid="0" user="" lat="42.0044051" lon="20.9895857">
+    <tag k="name" v="Kemofarmacia"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4281387289" version="5" timestamp="2021-02-22T11:40:51Z" uid="0" user="" lat="42.0160266" lon="21.5118538">
+    <tag k="addr:street" v="alija avdovikj 3/2-1"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Medical Point"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+    <tag k="phone" v="+38970911013"/>
+  </node>
+  <node id="4306375307" version="2" timestamp="2017-12-16T13:03:02Z" uid="0" user="" lat="42.0018882" lon="21.4114565">
+    <tag k="name" v="Bela Dent"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:street" v="Иван Аговски"/>
+  </node>
+  <node id="4375519189" version="3" timestamp="2016-11-11T08:29:30Z" uid="0" user="" lat="41.9928765" lon="21.4341995">
+    <tag k="name" v="Зегин ( стара градска болница)"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="name:mk" v="Зегин ( стара градска болница)"/>
+    <tag k="addr:street" v="Филип Втори Македонски"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="4424578889" version="1" timestamp="2016-09-30T06:22:02Z" uid="0" user="" lat="41.1171296" lon="20.8145984">
+    <tag k="name" v="ПЗУ.ПОПОСКИ"/>
+    <tag k="email" v="info@poposki.com.mk"/>
+    <tag k="phone" v="046251040"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="POPOSKI DENTAL PRACTICE"/>
+    <tag k="name:mk" v="ПЗУ.ПОПОСКИ"/>
+    <tag k="website" v="http://www.poposki.com.mk"/>
+    <tag k="addr:street" v="Питу Гули"/>
+    <tag k="addr:postcode" v="6000"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-13:30, 17:00-20:00"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="addr:housenumber" v="101"/>
+  </node>
+  <node id="4429141991" version="1" timestamp="2016-10-03T15:28:31Z" uid="0" user="" lat="41.1169284" lon="20.7980116">
+    <tag k="name" v="Betty Farmaci"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="4429142389" version="2" timestamp="2019-11-10T06:36:18Z" uid="0" user="" lat="41.1157532" lon="20.8009464">
+    <tag k="name" v="Pharmacy"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:mk" v="Аптека Мерифарм"/>
+    <tag k="addr:street" v="Македонски Просветители"/>
+  </node>
+  <node id="4429142390" version="2" timestamp="2018-07-09T11:57:52Z" uid="0" user="" lat="41.1142839" lon="20.800454">
+    <tag k="name" v="Pharmacy"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Pharmacy"/>
+    <tag k="name:mk" v="Pharmacy"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-22:00, Su 09:00-21:00"/>
+  </node>
+  <node id="4444127393" version="1" timestamp="2016-10-12T16:32:56Z" uid="0" user="" lat="41.4367684" lon="22.0127357">
+    <tag k="name" v="НЕА-ДЕНТ"/>
+    <tag k="email" v="elizabetamilkova@yahoo.com"/>
+    <tag k="phone" v="071259267"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="NEA-DENT"/>
+    <tag k="addr:street" v="Lazo Micev"/>
+    <tag k="addr:postcode" v="1430"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 09:00-13:00"/>
+    <tag k="addr:housenumber" v="40"/>
+  </node>
+  <node id="4449621005" version="5" timestamp="2019-02-13T17:42:32Z" uid="0" user="" lat="41.9974707" lon="21.5737133">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Улица 8"/>
+  </node>
+  <node id="4476978892" version="2" timestamp="2020-11-29T17:58:57Z" uid="0" user="" lat="41.9886058" lon="21.452716">
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:housenumber" v="18А лок. 8"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="23 Октомври"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="email" v="info@endomak.com.mk"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist"/>
+    <tag k="name" v="Ендомак"/>
+    <tag k="name:en" v="Endomak"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="phone" v="+38922456333"/>
+    <tag k="website" v="http://endomak.com.mk"/>
+  </node>
+  <node id="4478351891" version="1" timestamp="2016-11-03T07:26:14Z" uid="0" user="" lat="41.1138247" lon="20.8025211">
+    <tag k="name" v="PZU Terzievski"/>
+    <tag k="phone" v="078 242267"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Terzievski Dental Office"/>
+    <tag k="addr:street" v="Димитар Влахов"/>
+    <tag k="addr:postcode" v="6000"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="addr:housenumber" v="20a"/>
+  </node>
+  <node id="4502450590" version="1" timestamp="2016-11-15T13:39:29Z" uid="0" user="" lat="41.9413078" lon="20.9271416">
+    <tag k="name" v="Apoteka Narten"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Pharmacy Narten"/>
+    <tag k="name:mk" v="Apoteka Narten"/>
+    <tag k="name:sq" v="Farmacia Narten"/>
+    <tag k="addr:street" v="101"/>
+    <tag k="addr:postcode" v="1221"/>
+  </node>
+  <node id="4502450790" version="1" timestamp="2016-11-15T13:39:31Z" uid="0" user="" lat="41.9414043" lon="20.927135">
+    <tag k="name" v="Dr. Bali"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Dr. Bali"/>
+    <tag k="name:mk" v="Dr. Bali"/>
+    <tag k="name:sq" v="Dr. Bali"/>
+    <tag k="addr:street" v="101"/>
+    <tag k="addr:postcode" v="1221"/>
+  </node>
+  <node id="4502450989" version="1" timestamp="2016-11-15T13:38:04Z" uid="0" user="" lat="41.9441196" lon="20.9253281">
+    <tag k="name" v="Bolnica Kamenjane"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Hospital Kamenjane"/>
+    <tag k="name:mk" v="Bolnica Kamenjane"/>
+    <tag k="name:sq" v="Spitali Kamjan"/>
+    <tag k="addr:street" v="101"/>
+    <tag k="addr:postcode" v="1221"/>
+  </node>
+  <node id="4502463698" version="1" timestamp="2016-11-15T14:08:47Z" uid="0" user="" lat="41.9437196" lon="20.9282654">
+    <tag k="name" v="Dr. Ylber Ramadani"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Dr. Ylber Ramadani"/>
+    <tag k="name:mk" v="Dr. Ylber Ramadani"/>
+    <tag k="name:sq" v="Dr. Ylber Ramadani"/>
+    <tag k="addr:street" v="101"/>
+    <tag k="addr:postcode" v="1221"/>
+  </node>
+  <node id="4512189989" version="2" timestamp="2021-02-22T11:24:15Z" uid="0" user="" lat="42.0179859" lon="21.3825697">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Skupi22"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="email" v="medikacentar@yahoo.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Медика Центар"/>
+    <tag k="name:en" v="Medica Centar"/>
+    <tag k="name:mk" v="Медика Центар"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+38970206097"/>
+  </node>
+  <node id="4613945889" version="1" timestamp="2017-01-17T11:06:01Z" uid="0" user="" lat="41.9922274" lon="21.4096194">
+    <tag k="name" v="Dr. Margita"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Dr. Margita"/>
+    <tag k="name:mk" v="Dr. Margita"/>
+  </node>
+  <node id="4614661190" version="1" timestamp="2017-01-17T19:31:56Z" uid="0" user="" lat="41.9969243" lon="21.408508">
+    <tag k="name" v="Опоум"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Opium"/>
+    <tag k="name:mk" v="Опоум"/>
+  </node>
+  <node id="4725470590" version="2" timestamp="2021-08-28T21:59:50Z" uid="0" user="" lat="41.1441187" lon="22.4993997">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="1480"/>
+    <tag k="addr:street" v="Партизанска"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="email" v="hkoleva@t.mk"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Д-р Хилда Колева"/>
+    <tag k="name:el" v="D-r Hilda Koleva"/>
+    <tag k="name:en" v="D-r Hilda Koleva"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="phone" v="+38934211123"/>
+    <tag k="website" v="http://dhk.com.mk"/>
+  </node>
+  <node id="4776265422" version="1" timestamp="2017-04-05T07:00:14Z" uid="0" user="" lat="42.0035328" lon="21.4407164">
+    <tag k="name" v="ЈЗУ ЗДРАВСТВЕН ДОМ"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="4846704246" version="5" timestamp="2020-01-25T22:53:32Z" uid="0" user="" lat="41.9958705" lon="21.4276434">
+    <tag k="name" v="Виола"/>
+    <tag k="phone" v="+389 2 3125 155"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Viola"/>
+    <tag k="website" v="https://viola.mk/"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-22:00; Sa 08:00-22:00; Su 09:00-17:00"/>
+  </node>
+  <node id="4846704247" version="5" timestamp="2020-01-25T22:59:58Z" uid="0" user="" lat="41.9954508" lon="21.4273767">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa 08:00-22:00; Su 08:00-16:00"/>
+  </node>
+  <node id="4879918521" version="3" timestamp="2021-08-28T21:59:50Z" uid="0" user="" lat="41.1467275" lon="22.5059247">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Булевар Гевгелија"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="ЕНДОМАК Поликлиника и Заботехничка Лабороторија"/>
+    <tag k="name:el" v="ENDOMAK"/>
+    <tag k="name:en" v="ENDOMAK Polyclinic and Dental Lab"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 09:00-14:00"/>
+  </node>
+  <node id="4885047822" version="5" timestamp="2021-06-16T13:13:39Z" uid="0" user="" lat="42.0030792" lon="20.9773702">
+    <tag k="addr:housenumber" v="1-1/3"/>
+    <tag k="addr:postcode" v="1200"/>
+    <tag k="addr:street" v="Видое Смилевски Бато"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="general"/>
+    <tag k="name" v="ONE Hospital - Tetovo"/>
+    <tag k="name:en" v="ONE Hospital - Tetovo"/>
+    <tag k="name:mk" v="ОНЕ Хоспитал - Тетово"/>
+    <tag k="name:sq" v="ONE Hospital - Tetovë"/>
+    <tag k="opening_hours" v="Mo-Sa 00:00-00:00"/>
+    <tag k="phone" v="+38978822777"/>
+    <tag k="website" v="http://www.onehospital.mk/"/>
+  </node>
+  <node id="4906797823" version="2" timestamp="2018-03-13T18:56:57Z" uid="0" user="" lat="41.9703608" lon="22.7824577">
+    <tag k="name" v="Д-р Елена"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Ph. Elena"/>
+    <tag k="name:mk" v="Д-р Елена"/>
+    <tag k="internet_access" v="wlan"/>
+  </node>
+  <node id="4906799121" version="1" timestamp="2017-06-09T23:01:05Z" uid="0" user="" lat="41.9681666" lon="22.7795695">
+    <tag k="name" v="Д-р Здравко"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Ph. Zdravko"/>
+    <tag k="name:mk" v="Д-р Здравко"/>
+  </node>
+  <node id="4906876824" version="2" timestamp="2018-01-04T17:32:27Z" uid="0" user="" lat="41.9653605" lon="22.7705482">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="name:mk" v="Зегин"/>
+  </node>
+  <node id="4908220821" version="2" timestamp="2018-01-19T12:57:19Z" uid="0" user="" lat="41.9671338" lon="22.7802709">
+    <tag k="name" v="Д-р Ванчо"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="name:en" v="Dr. Vanco"/>
+    <tag k="name:mk" v="Д-р Ванчо"/>
+  </node>
+  <node id="4915240922" version="1" timestamp="2017-06-14T17:13:49Z" uid="0" user="" lat="42.0094415" lon="20.9711097">
+    <tag k="name" v="Зегин Апотека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin Pharmacy"/>
+  </node>
+  <node id="4926298321" version="2" timestamp="2021-02-22T11:28:17Z" uid="0" user="" lat="41.9909344" lon="21.4506076">
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Владимир Комаров"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="email" v="skopjankasuperdent@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Скопјанка Супердент"/>
+    <tag k="name:en" v="Skopjanka Superdent"/>
+    <tag k="name:mk" v="Скопјанка Супердент"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-15:30"/>
+    <tag k="phone" v="+38975435235"/>
+  </node>
+  <node id="4990134422" version="2" timestamp="2019-04-04T20:23:30Z" uid="0" user="" lat="42.0024902" lon="21.4394269">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:mk" v="Зегин"/>
+    <tag k="addr:street" v="Булевар Крсте Мисирков"/>
+  </node>
+  <node id="5054709625" version="3" timestamp="2017-08-29T17:30:52Z" uid="0" user="" lat="42.0042011" lon="21.5047496">
+    <tag k="name" v="BETTY"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="website" v="https://betty.mk/"/>
+    <tag k="drive_through" v="no"/>
+  </node>
+  <node id="5056426626" version="1" timestamp="2017-08-24T14:38:48Z" uid="0" user="" lat="41.4349918" lon="22.0142599">
+    <tag k="name" v="Аптека &quot;Фарма-Медика&quot;"/>
+    <tag k="phone" v="+38943550930"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Apteka &quot;Farma-Medika&quot;"/>
+    <tag k="addr:street" v="Цано ПопРистов"/>
+    <tag k="addr:postcode" v="1430"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="addr:housenumber" v="36"/>
+  </node>
+  <node id="5094555424" version="1" timestamp="2017-09-10T11:15:30Z" uid="0" user="" lat="42.0618376" lon="21.4507243">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="name:mk" v="Зегин"/>
+  </node>
+  <node id="5130474890" version="1" timestamp="2017-09-26T10:20:31Z" uid="0" user="" lat="41.9933702" lon="21.4271939">
+    <tag k="name" v="Здравствен дом „Железничар“"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Železničar Health Centre"/>
+  </node>
+  <node id="5160396347" version="1" timestamp="2017-10-11T08:31:53Z" uid="0" user="" lat="41.9423987" lon="20.870154">
+    <tag k="name" v="Ambulanta"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="5300516121" version="1" timestamp="2017-12-23T10:11:10Z" uid="0" user="" lat="41.9230287" lon="20.9160281">
+    <tag k="name" v="Еларда"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Elarda"/>
+    <tag k="name:sq" v="Elarda"/>
+    <tag k="operator" v="Albon Xhemaili"/>
+    <tag k="addr:street" v="102"/>
+    <tag k="addr:postcode" v="1220"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+  </node>
+  <node id="5333318379" version="1" timestamp="2018-01-11T14:20:35Z" uid="0" user="" lat="42.0028618" lon="21.4010137">
+    <tag k="name" v="Eurofarm"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="5344777689" version="1" timestamp="2018-01-17T12:03:58Z" uid="0" user="" lat="42.0072007" lon="21.368163">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Zegin"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="5344777690" version="1" timestamp="2018-01-17T12:03:58Z" uid="0" user="" lat="42.0073336" lon="21.3682252">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="5403989322" version="2" timestamp="2018-02-14T12:08:22Z" uid="0" user="" lat="41.9721066" lon="22.7734322">
+    <tag k="name" v="Центродел"/>
+    <tag k="email" v="petar.marija@live.com"/>
+    <tag k="phone" v="78395456"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Centrodel"/>
+    <tag k="operator" v="Blagoj Zlatkovski"/>
+    <tag k="addr:street" v="Braka Miladinovi"/>
+    <tag k="addr:postcode" v="2320"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+    <tag k="addr:housenumber" v="6"/>
+  </node>
+  <node id="5601794407" version="2" timestamp="2019-02-19T22:46:05Z" uid="0" user="" lat="41.9389005" lon="21.6155055">
+    <tag k="name" v="Euroitalia"/>
+    <tag k="amenity" v="hospital"/>
+  </node>
+  <node id="5646430122" version="1" timestamp="2018-05-27T21:43:13Z" uid="0" user="" lat="42.0130459" lon="21.4434522">
+    <tag k="name" v="Visar"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="addr:street" v="Ќемал Ататурк"/>
+  </node>
+  <node id="5672626651" version="1" timestamp="2018-06-07T13:09:33Z" uid="0" user="" lat="42.1336304" lon="21.7281424">
+    <tag k="name" v="Bizade"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="5761128321" version="1" timestamp="2018-07-15T06:16:24Z" uid="0" user="" lat="41.0855049" lon="21.0130865">
+    <tag k="name" v="Др.Пашковски"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Dr.Paskovski"/>
+  </node>
+  <node id="5969332187" version="3" timestamp="2020-07-20T05:24:42Z" uid="0" user="" lat="41.1348192" lon="20.7631403">
+    <tag k="name" v="St. Erasmus Hospital"/>
+    <tag k="phone" v="+38946272700"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="website" v="https://traortoh.com.mk/"/>
+    <tag k="addr:street" v="R1208, ohrid"/>
+    <tag k="addr:postcode" v="6000"/>
+    <tag k="opening_hours" v="Mo 08:00-15:30; Tu 08:00-15:30; We 08:00-15:00; Th 08:00-15:30; Fr 08:00-15:00; Sa 08:00-12:00; Su 00:00-24:00"/>
+    <tag k="internet_access" v="wlan"/>
+  </node>
+  <node id="5999496485" version="1" timestamp="2018-10-20T03:46:40Z" uid="0" user="" lat="42.1374816" lon="21.709735">
+    <tag k="name" v="Hitna Pomos"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Ambulance"/>
+    <tag k="name:mk" v="Brza Pomos"/>
+    <tag k="addr:street" v="11-ти Ноември"/>
+  </node>
+  <node id="6054048888" version="2" timestamp="2019-02-15T17:42:59Z" uid="0" user="" lat="41.9964634" lon="21.4403185">
+    <tag k="name" v="Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Булевар Крсте Мисирков"/>
+  </node>
+  <node id="6054050093" version="3" timestamp="2019-11-17T15:14:27Z" uid="0" user="" lat="41.998501" lon="21.4224854">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="6054050097" version="2" timestamp="2019-09-12T11:06:59Z" uid="0" user="" lat="42.0004895" lon="21.4152598">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6079510884" version="1" timestamp="2018-11-21T11:44:57Z" uid="0" user="" lat="42.0190397" lon="22.5892595">
+    <tag k="name" v="VIVA"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+  </node>
+  <node id="6079524185" version="1" timestamp="2018-11-21T11:44:57Z" uid="0" user="" lat="42.0191245" lon="22.5897895">
+    <tag k="name" v="Pharmacy"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="6079524186" version="1" timestamp="2018-11-21T11:44:57Z" uid="0" user="" lat="42.0189979" lon="22.5908239">
+    <tag k="name" v="VIVA"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="6251285572" version="1" timestamp="2019-02-01T09:50:20Z" uid="0" user="" lat="42.2044806" lon="22.3341756">
+    <tag k="name" v="Д-р Гордана Павловска"/>
+    <tag k="phone" v="031 374611"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="operator" v="Др. Гордана Павловска"/>
+    <tag k="addr:city" v="Kriva Palanka"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="addr:street" v="Illidenska"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="addr:postcode" v="1330"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="healthcare:speciality" v="general"/>
+  </node>
+  <node id="6251285573" version="1" timestamp="2019-02-01T09:50:21Z" uid="0" user="" lat="42.2033182" lon="22.3353871">
+    <tag k="name" v="Гокодент"/>
+    <tag k="phone" v="031 374188"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:city" v="Kriva Palanka"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="addr:street" v="Свети Јоаким Осоговски"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="addr:postcode" v="1330"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00"/>
+    <tag k="addr:housenumber" v="162"/>
+  </node>
+  <node id="6277406771" version="1" timestamp="2019-02-13T22:01:46Z" uid="0" user="" lat="41.9931161" lon="21.5809699">
+    <tag k="name" v="Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Улица 9"/>
+  </node>
+  <node id="6278889139" version="1" timestamp="2019-02-14T16:01:03Z" uid="0" user="" lat="42.0105657" lon="21.4406066">
+    <tag k="name" v="Bett"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Коста Абрашевиќ"/>
+  </node>
+  <node id="6279836416" version="1" timestamp="2019-02-14T23:50:38Z" uid="0" user="" lat="41.9907383" lon="21.4259201">
+    <tag k="name" v="Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Јордан Мијалков"/>
+  </node>
+  <node id="6279846683" version="1" timestamp="2019-02-14T23:55:44Z" uid="0" user="" lat="41.9922216" lon="21.327588">
+    <tag k="name" v="Barnatore"/>
+    <tag k="fixme" v="missing street address"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6281189208" version="1" timestamp="2019-02-15T16:05:07Z" uid="0" user="" lat="41.9890443" lon="21.5872765">
+    <tag k="name" v="Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Улица 532"/>
+  </node>
+  <node id="6281672840" version="1" timestamp="2019-02-15T20:39:46Z" uid="0" user="" lat="41.9980469" lon="21.3256447">
+    <tag k="name" v="Family Dental"/>
+    <tag k="fixme" v="missing street address"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="6281849279" version="1" timestamp="2019-02-15T22:18:28Z" uid="0" user="" lat="42.0086285" lon="21.443156">
+    <tag k="name" v="АПТЕКА BARNATORE"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Булевар Цветан Димов"/>
+  </node>
+  <node id="6281849280" version="1" timestamp="2019-02-15T22:18:28Z" uid="0" user="" lat="42.0082379" lon="21.4434403">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Булевар Цветан Димов"/>
+  </node>
+  <node id="6281849281" version="2" timestamp="2020-06-30T17:17:11Z" uid="0" user="" lat="42.0075593" lon="21.4429723">
+    <tag k="name" v="Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name:en" v="Chemist"/>
+    <tag k="name:sq" v="Barnatore"/>
+    <tag k="addr:street" v="Цветан Димов"/>
+  </node>
+  <node id="6281993272" version="1" timestamp="2019-02-16T00:31:29Z" uid="0" user="" lat="42.0151742" lon="21.4438641">
+    <tag k="name" v="BETTY"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Ќемал Сејфула"/>
+  </node>
+  <node id="6281993278" version="1" timestamp="2019-02-16T00:31:29Z" uid="0" user="" lat="42.0132431" lon="21.4393607">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Џон Кенеди"/>
+  </node>
+  <node id="6281993283" version="1" timestamp="2019-02-16T00:31:30Z" uid="0" user="" lat="42.0128994" lon="21.4356244">
+    <tag k="name" v="Vita Farm"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Џон Кенеди"/>
+  </node>
+  <node id="6289927529" version="1" timestamp="2019-02-19T22:10:57Z" uid="0" user="" lat="41.9751104" lon="21.4722875">
+    <tag k="name" v="Еурофарм Аптека"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Димитар Туриманџовски"/>
+  </node>
+  <node id="6291421026" version="2" timestamp="2020-01-17T11:12:05Z" uid="0" user="" lat="41.9771244" lon="21.4438185">
+    <tag k="name" v="Еурофарм"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6291421027" version="1" timestamp="2019-02-20T15:54:40Z" uid="0" user="" lat="41.9762181" lon="21.438959">
+    <tag k="name" v="Еурофарм"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="addr:street" v="Народни Херои"/>
+  </node>
+  <node id="6347485641" version="1" timestamp="2019-03-19T13:56:50Z" uid="0" user="" lat="41.7613575" lon="22.4646543">
+    <tag k="name" v="Партизанска болница"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="healthcare" v="hospital"/>
+  </node>
+  <node id="6384505886" version="1" timestamp="2019-04-04T23:35:01Z" uid="0" user="" lat="41.7929628" lon="20.903526">
+    <tag k="name" v="Болница Ферид Мурад"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:tr" v="Ferid Murad Hastanesi"/>
+    <tag k="addr:postcode" v="1230"/>
+  </node>
+  <node id="6812666799" version="1" timestamp="2019-09-20T17:03:02Z" uid="0" user="" lat="42.1396951" lon="21.7196234">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6814246729" version="1" timestamp="2019-09-21T15:32:40Z" uid="0" user="" lat="41.9949134" lon="21.4245363">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6815918388" version="2" timestamp="2019-11-17T15:14:27Z" uid="0" user="" lat="41.9982536" lon="21.4226605">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="6827074011" version="1" timestamp="2019-09-26T12:14:13Z" uid="0" user="" lat="42.001155" lon="21.439514">
+    <tag k="name" v="Hami"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="6830542298" version="1" timestamp="2019-09-27T11:49:50Z" uid="0" user="" lat="41.1191275" lon="20.8135786">
+    <tag k="name" v="Dentesa"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="6830542299" version="1" timestamp="2019-09-27T11:49:50Z" uid="0" user="" lat="41.1190568" lon="20.813611">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6831648787" version="1" timestamp="2019-09-27T21:15:37Z" uid="0" user="" lat="41.1156874" lon="20.8127235">
+    <tag k="name" v="Viafarm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6831648818" version="1" timestamp="2019-09-27T21:16:04Z" uid="0" user="" lat="41.1132284" lon="20.8048581">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833100691" version="1" timestamp="2019-09-28T17:36:30Z" uid="0" user="" lat="41.1176215" lon="20.8007114">
+    <tag k="name" v="Maja pharm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833103289" version="2" timestamp="2021-08-27T11:36:59Z" uid="0" user="" lat="41.1128537" lon="20.8050939">
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist"/>
+    <tag k="name" v="Jolevski"/>
+  </node>
+  <node id="6833103385" version="1" timestamp="2019-09-28T17:38:17Z" uid="0" user="" lat="41.1197458" lon="20.8062559">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833103389" version="1" timestamp="2019-09-28T17:38:46Z" uid="0" user="" lat="41.1177349" lon="20.7993691">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833103489" version="1" timestamp="2019-09-28T17:38:27Z" uid="0" user="" lat="41.1158373" lon="20.8152083">
+    <tag k="name" v="Flos"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833103501" version="1" timestamp="2019-09-28T17:38:59Z" uid="0" user="" lat="41.1164144" lon="20.8038998">
+    <tag k="name" v="Dent inn"/>
+    <tag k="amenity" v="dentist"/>
+  </node>
+  <node id="6833103504" version="1" timestamp="2019-09-28T17:40:16Z" uid="0" user="" lat="41.1183245" lon="20.8046713">
+    <tag k="name" v="Viapharm"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6833104286" version="1" timestamp="2019-09-28T17:39:17Z" uid="0" user="" lat="41.1145898" lon="20.8068331">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6837039894" version="1" timestamp="2019-09-30T09:36:16Z" uid="0" user="" lat="41.117204" lon="20.8147633">
+    <tag k="name" v="Plus pharma"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6837039900" version="1" timestamp="2019-09-30T09:36:23Z" uid="0" user="" lat="41.1157903" lon="20.8091001">
+    <tag k="name" v="Jaliar"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6837039903" version="1" timestamp="2019-09-30T09:36:24Z" uid="0" user="" lat="41.1116502" lon="20.8089137">
+    <tag k="name" v="Kami pharma"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6837039904" version="1" timestamp="2019-09-30T09:36:24Z" uid="0" user="" lat="41.1113809" lon="20.8090724">
+    <tag k="name" v="Mazarow"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6837046288" version="1" timestamp="2019-09-30T09:36:15Z" uid="0" user="" lat="41.1166173" lon="20.8145136">
+    <tag k="name" v="Betty"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="6906971756" version="1" timestamp="2019-10-22T20:02:54Z" uid="0" user="" lat="41.6389019" lon="22.4601554">
+    <tag k="name" v="ZEGIN"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+  </node>
+  <node id="6913306084" version="1" timestamp="2019-10-24T17:04:21Z" uid="0" user="" lat="42.0247319" lon="21.4292568">
+    <tag k="name" v="Zegin"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="7027084885" version="1" timestamp="2019-12-02T20:17:33Z" uid="0" user="" lat="41.9919437" lon="21.4235554">
+    <tag k="name" v="Стоматолошка Ординација"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name:en" v="Dentist"/>
+  </node>
+  <node id="7124138448" version="1" timestamp="2020-01-11T10:54:55Z" uid="0" user="" lat="41.1834446" lon="22.722446">
+    <tag k="name" v="Polydent"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="addr:city" v="Стар Дојран"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="addr:street" v="Маршал Тито"/>
+    <tag k="addr:postcode" v="1487"/>
+  </node>
+  <node id="7173141269" version="1" timestamp="2020-01-30T20:23:09Z" uid="0" user="" lat="42.034337" lon="21.0014229">
+    <tag k="name" v="NATURA MEDIKA"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="operator" v="Public"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="healthcare:speciality" v="general_practice;surgery;laboratory;first_aid_training;occupational;neurosurgery"/>
+  </node>
+  <node id="7373066519" version="1" timestamp="2020-04-06T18:27:45Z" uid="0" user="" lat="41.7436809" lon="22.1978295">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="7373066520" version="1" timestamp="2020-04-06T18:27:45Z" uid="0" user="" lat="41.7500361" lon="22.2011807">
+    <tag k="name" v="Зегин"/>
+    <tag k="amenity" v="pharmacy"/>
+  </node>
+  <node id="8124609217" version="1" timestamp="2020-11-16T13:34:58Z" uid="0" user="" lat="42.003747" lon="21.4672077">
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Бапчор"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Еурофарм аптека"/>
+    <tag k="name:en" v="Eurofarm"/>
+  </node>
+  <node id="8188519794" version="1" timestamp="2020-12-02T20:25:30Z" uid="0" user="" lat="41.9968203" lon="21.4265268">
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:city:en" v="Skopje"/>
+    <tag k="addr:country" v="MK"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Максим Горки"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Еурофарм"/>
+  </node>
+  <node id="8393939617" version="1" timestamp="2021-02-04T12:59:01Z" uid="0" user="" lat="41.9347627" lon="21.5332026">
+    <tag k="amenity" v="hospital"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="lindi 2022"/>
+  </node>
+  <node id="8434537936" version="1" timestamp="2021-02-18T10:34:48Z" uid="0" user="" lat="41.9398219" lon="21.5158516">
+    <tag k="addr:city" v="Драчево"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Димитар Гуштанов"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="general"/>
+    <tag k="name" v="PZU &quot;Deona MM&quot;"/>
+    <tag k="operator" v="Dr. Mira Miloseska"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="phone" v="+389 2 2796-952"/>
+  </node>
+  <node id="8494240822" version="2" timestamp="2021-04-10T20:56:29Z" uid="0" user="" lat="42.0026365" lon="21.4114399">
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Иван Аговски"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Зегин"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Зегин - Моја Аптека"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su off"/>
+    <tag k="operator" v="Зегин"/>
+    <tag k="phone" v="+38923089997"/>
+  </node>
+  <node id="8615953943" version="2" timestamp="2021-04-10T20:58:15Z" uid="0" user="" lat="42.0025921" lon="21.4114304">
+    <tag k="addr:city" v="Cкoпje"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Иван Аговски"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Терадент"/>
+    <tag k="name:en" v="Teradent"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 10:00-14:00"/>
+    <tag k="phone" v="+38970795919;+38923079900"/>
+  </node>
+  <node id="8745676373" version="1" timestamp="2021-05-19T11:49:29Z" uid="0" user="" lat="41.9933214" lon="21.42882">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Еурофарм"/>
+  </node>
+  <node id="8909816033" version="1" timestamp="2021-07-10T13:53:11Z" uid="0" user="" lat="41.0269" lon="21.3367291">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Еурофарм - Центар"/>
+    <tag k="name:en" v="Eurofarm - Centar"/>
+  </node>
+  <node id="8976090570" version="2" timestamp="2021-08-08T05:01:28Z" uid="0" user="" lat="42.0555686" lon="21.4512282">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Еурофарм"/>
+  </node>
+  <node id="9091826489" version="1" timestamp="2021-09-14T18:07:46Z" uid="0" user="" lat="41.3435181" lon="21.5599606">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Алек Фарм"/>
+    <tag k="name:en" v="Alek Farm"/>
+  </node>
+  <node id="9200216066" version="1" timestamp="2021-10-25T16:01:52Z" uid="0" user="" lat="41.9896172" lon="21.4359938">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Eurofarm"/>
+  </node>
+  <node id="9200216440" version="1" timestamp="2021-10-25T16:01:47Z" uid="0" user="" lat="41.9922394" lon="21.4284796">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Zegin"/>
+  </node>
+  <node id="9200216556" version="1" timestamp="2021-10-25T16:01:34Z" uid="0" user="" lat="42.0005157" lon="21.4152038">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="name" v="Betty"/>
+  </node>
+</osm>
