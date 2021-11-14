@@ -1,4 +1,4 @@
-# FINKI-DIANS
+# Healthmap
 
 ## Автори:
 
