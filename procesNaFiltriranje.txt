@@ -1,0 +1,6 @@
+Користејки ја командата osmosis --rbf macedonia-latest.osm.pbf --nkv keyValueList="amenity.hospital amenity.pharmacy amenity.dentist" --wx healthcare_objects.osm
+добивме .osm датотека со сите здравствени објекти на Р.М потоа со командата osmosis --rx healthcare_objects.osm --nk keyList="name" --wx healthcare_objects_filtered.osm
+ги исфилтриравме сите објекти за кои нема поставено име и преку osmconvert го конвертиравме .osm датотеката во .txt преку командата 
+osmconvert64-0.8.8p.exe healthcare_objects_filtered.osm --all-to-nodes --csv="@id @lon @lat amenity name addr:city" --csv-headline > healthcare_objects_filtered.txt
+потоа користејки го txtToJSON.py скриптата добивме .json датотека.
+
