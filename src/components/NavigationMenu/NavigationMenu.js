@@ -7,10 +7,7 @@ import comment from '../../assets/Icons/16558105781580594410.svg';
 import team from '../../assets/Icons/14233826931544610471.svg';
 import manual from '../../assets/Icons/7945183341586788047.svg';
 import hamburger from '../../assets/Icons/hamburger-menu.svg';
-<<<<<<< HEAD
-=======
 import { Link, NavLink } from 'react-router-dom';
->>>>>>> 399d0ef28040976d1561065e7dc4bc1e4ae1dd8f
 
 const NavigationMenu = () => {
   const [mapSection, setMapSection] = useState(false);

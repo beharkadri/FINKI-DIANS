@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-import Layout from './components/layout/Layout';
-import MapSection from './components/MapSection/MapSection';
-import LandingSection from './components/LandingSection/LandingSection';
-import TeamSection from './components/TeamSection/TeamSection';
-=======
 import { Route, Switch } from 'react-router-dom';
 
 import Layout from './components/layout/Layout';
@@ -12,7 +6,6 @@ import Map from './pages/Map';
 import HowToSearch from './pages/HowToSearch';
 import FeedBack from './pages/Feedback';
 import Team from './pages/Team';
->>>>>>> 399d0ef28040976d1561065e7dc4bc1e4ae1dd8f
 import './App.css';
 
 function App() {
