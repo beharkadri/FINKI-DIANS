@@ -7,6 +7,10 @@ import comment from '../../assets/Icons/16558105781580594410.svg';
 import team from '../../assets/Icons/14233826931544610471.svg';
 import manual from '../../assets/Icons/7945183341586788047.svg';
 import hamburger from '../../assets/Icons/hamburger-menu.svg';
+<<<<<<< HEAD
+=======
+import { Link, NavLink } from 'react-router-dom';
+>>>>>>> 399d0ef28040976d1561065e7dc4bc1e4ae1dd8f
 
 const NavigationMenu = () => {
   const [mapSection, setMapSection] = useState(false);
@@ -17,36 +21,51 @@ const NavigationMenu = () => {
         className={styles.collapse}
         onClick={() => setCollapsed(!collapsed)}
         src={hamburger}
+        alt='Hamburger'
       />
-      <img
-        src='https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a4d62d14defd1f854036fe_mkmap.png'
-        alt='Logo'
-        className={styles.logo}
-      />
-      {!collapsed && <h1>HealthMap.mk</h1>}
+      <Link to='/'>
+        <img
+          src='https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a4d62d14defd1f854036fe_mkmap.png'
+          alt='Logo'
+          className={styles.logo}
+        />
+        {!collapsed && <h1>HealthMap.mk</h1>}
+      </Link>
+
       {mapSection === false ? (
         <div className={styles.content}>
-          <div
-            onClick={() => {
-              setMapSection(true);
-              setCollapsed(false);
-            }}
-          >
-            <img src={map} alt='Map' />
-            {!collapsed && <h2>Map</h2>}
-          </div>
-          <div>
-            <img src={manual} alt='Manual' />
-            {!collapsed && <h2>How to Search</h2>}
-          </div>
-          <div>
-            <img src={comment} alt='Feedback' />
-            {!collapsed && <h2>Feedback</h2>}
-          </div>
-          <div>
-            <img src={team} alt='Team' />
-            {!collapsed && <h2>Our Team</h2>}
-          </div>
+          <NavLink to='/map' activeClassName={styles.activeElement}>
+            <div
+              onClick={() => {
+                setMapSection(true);
+                setCollapsed(false);
+              }}
+            >
+              <img src={map} alt='Map' />
+              {!collapsed && <h2>Map</h2>}
+            </div>
+          </NavLink>
+
+          <NavLink to='/how-to-search' activeClassName={styles.activeElement}>
+            <div>
+              <img src={manual} alt='Manual' />
+              {!collapsed && <h2>How to Search</h2>}
+            </div>
+          </NavLink>
+
+          <NavLink to='/feedback' activeClassName={styles.activeElement}>
+            <div>
+              <img src={comment} alt='Feedback' />
+              {!collapsed && <h2>Feedback</h2>}
+            </div>
+          </NavLink>
+
+          <NavLink to='/team' activeClassName={styles.activeElement}>
+            <div>
+              <img src={team} alt='Team' />
+              {!collapsed && <h2>Our Team</h2>}
+            </div>
+          </NavLink>
         </div>
       ) : (
         <div className={styles.mapMenu}>
