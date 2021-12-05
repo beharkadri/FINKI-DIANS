@@ -1,0 +1,27 @@
+[
+  {
+    "picture": "https://picsum.photos/100",
+    "name": "Agron Bajrami",
+    "description": "Lorem ipsum dolor sit amet...."
+  },
+  {
+    "picture": "https://picsum.photos/100",
+    "name": "Flamur Bakiu",
+    "description": "Lorem ipsum dolor sit amet...."
+  },
+  {
+    "picture": "https://picsum.photos/100",
+    "name": "Behar Kadri",
+    "description": "Lorem ipsum dolor sit amet...."
+  },
+  {
+    "picture": "https://picsum.photos/100",
+    "name": "Shpresa Zendeli",
+    "description": "Lorem ipsum dolor sit amet...."
+  },
+  {
+    "picture": "https://picsum.photos/100",
+    "name": "Hasib Ibrahimi",
+    "description": "Lorem ipsum dolor sit amet...."
+  }
+]
