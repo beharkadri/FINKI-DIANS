@@ -1,0 +1,10 @@
+.team {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  & > div {
+    flex: 1;
+  }
+}

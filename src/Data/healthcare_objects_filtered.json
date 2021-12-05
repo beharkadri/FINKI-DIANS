@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "367675829",
+    "longitude": "21.3816633",
+    "latitude": "42.0061233",
+    "amenity": "pharmacy",
+    "name": "Ремедиум",
+    "city": ""
+  },
+  {
+    "id": "380920212",
+    "longitude": "22.0202441",
+    "latitude": "41.4439681",
+    "amenity": "hospital",
+    "name": "ЈЗУ Општа Болница",
+    "city": ""
+  },
+  {
+    "id": "381141682",
+    "longitude": "22.0186820",
+    "latitude": "41.4331879",
+    "amenity": "hospital",
+    "name": "Itna medicinska sluzba",
+    "city": ""
+  },
+  {
+    "id": "382650837",
+    "longitude": "22.0111728",
+    "latitude": "41.4366490",
+    "amenity": "pharmacy",
+    "name": "Flora",
+    "city": ""
+  },
+  {
+    "id": "390436187",
+    "longitude": "20.8069305",
+    "latitude": "41.1128747",
+    "amenity": "hospital",
+    "name": "Брза помош-амбуланта",
+    "city": "Охрид"
+  },
+  {
+    "id": "443017399",
+    "longitude": "21.5039025",
+    "latitude": "41.9954834",
+    "amenity": "pharmacy",
+    "name": "Градска Аптека Маџари",
+    "city": ""
+  },
+  {
+    "id": "444938811",
+    "longitude": "21.4226797",
+    "latitude": "41.9984708",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "444994545",
+    "longitude": "21.4626489",
+    "latitude": "42.0023086",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "446285567",
+    "longitude": "21.3918760",
+    "latitude": "41.9988883",
+    "amenity": "hospital",
+    "name": "Систина",
+    "city": ""
+  },
+  {
+    "id": "459673288",
+    "longitude": "21.4154083",
+    "latitude": "41.9932326",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "464772764",
+    "longitude": "22.3213986",
+    "latitude": "42.1956200",
+    "amenity": "hospital",
+    "name": "Bolnica Primarius D-r. Dimitar Arsov",
+    "city": ""
+  },
+  {
+    "id": "464772766",
+    "longitude": "22.3218094",
+    "latitude": "42.1966304",
+    "amenity": "pharmacy",
+    "name": "Melisa",
+    "city": ""
+  },
+  {
+    "id": "473903011",
+    "longitude": "22.3352996",
+    "latitude": "42.2026734",
+    "amenity": "pharmacy",
+    "name": "City pharmacy",
+    "city": ""
+  },
+  {
+    "id": "478041008",
+    "longitude": "22.0143343",
+    "latitude": "41.4334419",
+    "amenity": "hospital",
+    "name": "Asklepij",
+    "city": ""
+  },
+  {
+    "id": "478041069",
+    "longitude": "22.0114671",
+    "latitude": "41.4335225",
+    "amenity": "pharmacy",
+    "name": "Flora",
+    "city": ""
+  },
+  {
+    "id": "479803481",
+    "longitude": "21.3825263",
+    "latitude": "42.0064220",
+    "amenity": "hospital",
+    "name": "Eye Center VIZIA",
+    "city": ""
+  },
+  {
+    "id": "484691167",
+    "longitude": "21.5084304",
+    "latitude": "41.9943778",
+    "amenity": "pharmacy",
+    "name": "Intergral Farm",
+    "city": ""
+  },
+  {
+    "id": "497549513",
+    "longitude": "22.8514500",
+    "latitude": "41.7085000",
+    "amenity": "hospital",
+    "name": "Амбуланта",
+    "city": ""
+  },
+  {
+    "id": "498850840",
+    "longitude": "21.4373274",
+    "latitude": "41.9972254",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "529807927",
+    "longitude": "22.0112529",
+    "latitude": "41.4352758",
+    "amenity": "pharmacy",
+    "name": "Flora",
+    "city": ""
+  },
+  {
+    "id": "529810682",
+    "longitude": "22.0102316",
+    "latitude": "41.4383709",
+    "amenity": "pharmacy",
+    "name": "Flora",
+    "city": ""
+  },
+  {
+    "id": "529811233",
+    "longitude": "22.0177763",
+    "latitude": "41.4345186",
+    "amenity": "pharmacy",
+    "name": "Flora",
+    "city": ""
+  },
+  {
+    "id": "568024520",
+    "longitude": "20.6795882",
+    "latitude": "41.1815650",
+    "amenity": "hospital",
+    "name": "SANITA",
+    "city": ""
+  },
+  {
+    "id": "568024688",
+    "longitude": "20.6791796",
+    "latitude": "41.1810946",
+    "amenity": "hospital",
+    "name": "City hospital",
+    "city": ""
+  },
+  {
+    "id": "774775223",
+    "longitude": "21.0118055",
+    "latitude": "41.0880394",
+    "amenity": "pharmacy",
+    "name": "Farmalek 2005",
+    "city": ""
+  },
+  {
+    "id": "774777038",
+    "longitude": "21.0131144",
+    "latitude": "41.0910636",
+    "amenity": "pharmacy",
+    "name": "Epoha",
+    "city": ""
+  },
+  {
+    "id": "774779901",
+    "longitude": "21.0122775",
+    "latitude": "41.0920662",
+    "amenity": "pharmacy",
+    "name": "Anafarm",
+    "city": ""
+  },
+  {
+    "id": "774784615",
+    "longitude": "21.0073455",
+    "latitude": "41.0899619",
+    "amenity": "hospital",
+    "name": "Здравствен дом Ресен",
+    "city": ""
+  },
+  {
+    "id": "913077744",
+    "longitude": "22.0172506",
+    "latitude": "41.4345629",
+    "amenity": "pharmacy",
+    "name": "Remedia",
+    "city": ""
+  },
+  {
+    "id": "913077746",
+    "longitude": "22.0161241",
+    "latitude": "41.4343618",
+    "amenity": "pharmacy",
+    "name": "Echo",
+    "city": ""
+  },
+  {
+    "id": "1272903523",
+    "longitude": "22.5100370",
+    "latitude": "41.8872494",
+    "amenity": "hospital",
+    "name": "Bolnica Vinica",
+    "city": ""
+  },
+  {
+    "id": "1381604857",
+    "longitude": "21.4420010",
+    "latitude": "41.9703449",
+    "amenity": "hospital",
+    "name": "Болница за зависности",
+    "city": ""
+  },
+  {
+    "id": "1381606894",
+    "longitude": "21.4346369",
+    "latitude": "41.9869370",
+    "amenity": "hospital",
+    "name": "Адриалаб",
+    "city": ""
+  },
+  {
+    "id": "1382090803",
+    "longitude": "21.4295599",
+    "latitude": "41.9835895",
+    "amenity": "pharmacy",
+    "name": "Apteka Biofit",
+    "city": ""
+  },
+  {
+    "id": "1382090805",
+    "longitude": "21.4008928",
+    "latitude": "41.9940569",
+    "amenity": "pharmacy",
+    "name": "Apteka Biofit",
+    "city": ""
+  },
+  {
+    "id": "1615832328",
+    "longitude": "21.3978776",
+    "latitude": "42.0032564",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "1615847558",
+    "longitude": "21.3985661",
+    "latitude": "42.0034289",
+    "amenity": "pharmacy",
+    "name": "Херба",
+    "city": ""
+  },
+  {
+    "id": "1652699470",
+    "longitude": "21.4219509",
+    "latitude": "41.9919776",
+    "amenity": "pharmacy",
+    "name": "Уни Медикал",
+    "city": ""
+  },
+  {
+    "id": "1747986303",
+    "longitude": "21.4308199",
+    "latitude": "41.9869002",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "1850511011",
+    "longitude": "21.4501059",
+    "latitude": "42.0601589",
+    "amenity": "hospital",
+    "name": "Манолеви",
+    "city": ""
+  },
+  {
+    "id": "1855982570",
+    "longitude": "21.4403511",
+    "latitude": "42.0161642",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": ""
+  },
+  {
+    "id": "1857472128",
+    "longitude": "21.4610369",
+    "latitude": "42.0101421",
+    "amenity": "dentist",
+    "name": "PZU Prodentika",
+    "city": ""
+  },
+  {
+    "id": "1999950864",
+    "longitude": "22.2415389",
+    "latitude": "41.4086240",
+    "amenity": "hospital",
+    "name": "Ambulanta",
+    "city": ""
+  },
+  {
+    "id": "2294320035",
+    "longitude": "21.4078311",
+    "latitude": "41.9960357",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "2362912161",
+    "longitude": "21.4053418",
+    "latitude": "42.0026568",
+    "amenity": "pharmacy",
+    "name": "Аптека Ремедиум Лек",
+    "city": ""
+  },
+  {
+    "id": "2373004497",
+    "longitude": "21.3702482",
+    "latitude": "40.9990844",
+    "amenity": "hospital",
+    "name": "Диагностички центар св.Спас",
+    "city": "Битола"
+  },
+  {
+    "id": "2405915015",
+    "longitude": "22.6436636",
+    "latitude": "41.4391631",
+    "amenity": "hospital",
+    "name": "Здравствен Дом Струмица",
+    "city": ""
+  },
+  {
+    "id": "2410445420",
+    "longitude": "21.5134781",
+    "latitude": "41.9398843",
+    "amenity": "dentist",
+    "name": "ПЗУ Д-р Салтамарски",
+    "city": "Skopje"
+  },
+  {
+    "id": "2411245246",
+    "longitude": "22.4907252",
+    "latitude": "41.1717857",
+    "amenity": "hospital",
+    "name": "Негорски Бањи",
+    "city": ""
+  },
+  {
+    "id": "2545342992",
+    "longitude": "20.9139859",
+    "latitude": "40.9776464",
+    "amenity": "hospital",
+    "name": "ЈЗУ Завод за превенција лекување и рехабилитација на хронични респираторни неспецифични заболувања, Отешево",
+    "city": ""
+  },
+  {
+    "id": "2574157872",
+    "longitude": "22.5564969",
+    "latitude": "41.3156008",
+    "amenity": "hospital",
+    "name": "JZU Zdravstven dom Valandovo",
+    "city": "Valandovo"
+  },
+  {
+    "id": "2578824879",
+    "longitude": "21.4324038",
+    "latitude": "41.9811356",
+    "amenity": "pharmacy",
+    "name": "Аптека Виола",
+    "city": ""
+  },
+  {
+    "id": "2601311980",
+    "longitude": "21.4078707",
+    "latitude": "42.0032478",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "2670727606",
+    "longitude": "22.6393219",
+    "latitude": "41.4351790",
+    "amenity": "hospital",
+    "name": "Стара Градска болница",
+    "city": ""
+  },
+  {
+    "id": "2919825967",
+    "longitude": "20.9672997",
+    "latitude": "41.8301443",
+    "amenity": "pharmacy",
+    "name": "Menti Farm Barnatore",
+    "city": ""
+  },
+  {
+    "id": "3022331502",
+    "longitude": "22.3349122",
+    "latitude": "42.2040261",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": "Kriva Palanka"
+  },
+  {
+    "id": "3022359063",
+    "longitude": "22.3340869",
+    "latitude": "42.2050632",
+    "amenity": "hospital",
+    "name": "Пензионерски здравствен дом",
+    "city": "Kriva Palanka"
+  },
+  {
+    "id": "3099334941",
+    "longitude": "21.4460324",
+    "latitude": "41.9910923",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "3104012020",
+    "longitude": "21.4311375",
+    "latitude": "41.9943079",
+    "amenity": "pharmacy",
+    "name": "Eуpoфapм",
+    "city": ""
+  },
+  {
+    "id": "3187744358",
+    "longitude": "22.4648860",
+    "latitude": "41.6376490",
+    "amenity": "pharmacy",
+    "name": "Medea",
+    "city": ""
+  },
+  {
+    "id": "3606658843",
+    "longitude": "21.3834081",
+    "latitude": "42.0050186",
+    "amenity": "pharmacy",
+    "name": "Зегин (Карпош 4)",
+    "city": "Скопје"
+  },
+  {
+    "id": "3625167305",
+    "longitude": "21.5506013",
+    "latitude": "41.3442389",
+    "amenity": "dentist",
+    "name": "Д-р Караџоски",
+    "city": ""
+  },
+  {
+    "id": "3625183275",
+    "longitude": "21.5488881",
+    "latitude": "41.3437361",
+    "amenity": "dentist",
+    "name": "Кристал Дент",
+    "city": ""
+  },
+  {
+    "id": "3629405142",
+    "longitude": "21.5439790",
+    "latitude": "41.3426665",
+    "amenity": "dentist",
+    "name": "Дентика",
+    "city": ""
+  },
+  {
+    "id": "3634182103",
+    "longitude": "21.3902099",
+    "latitude": "42.0009171",
+    "amenity": "pharmacy",
+    "name": "ЕуроФарм Тафталиџе",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "3647042375",
+    "longitude": "21.7343791",
+    "latitude": "42.1197425",
+    "amenity": "hospital",
+    "name": "Poliklinika \"Goce Delcev\"",
+    "city": ""
+  },
+  {
+    "id": "3695356142",
+    "longitude": "22.7790190",
+    "latitude": "41.9651427",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": "Делчево"
+  },
+  {
+    "id": "3700058029",
+    "longitude": "22.7751349",
+    "latitude": "41.9663936",
+    "amenity": "pharmacy",
+    "name": "Твоја Аптека",
+    "city": "Делчево"
+  },
+  {
+    "id": "3700058030",
+    "longitude": "22.7754332",
+    "latitude": "41.9665995",
+    "amenity": "pharmacy",
+    "name": "Дел Фарм",
+    "city": "Делчево"
+  },
+  {
+    "id": "3700058031",
+    "longitude": "22.7800854",
+    "latitude": "41.9648802",
+    "amenity": "pharmacy",
+    "name": "Валеријана",
+    "city": "Делчево"
+  },
+  {
+    "id": "3700058032",
+    "longitude": "22.7718677",
+    "latitude": "41.9650374",
+    "amenity": "pharmacy",
+    "name": "Кетрин",
+    "city": ""
+  },
+  {
+    "id": "3816919343",
+    "longitude": "21.3767990",
+    "latitude": "42.0256469",
+    "amenity": "pharmacy",
+    "name": "Eurofarm",
+    "city": ""
+  },
+  {
+    "id": "3828411466",
+    "longitude": "21.7830089",
+    "latitude": "41.7162366",
+    "amenity": "pharmacy",
+    "name": "Еуро Фарм",
+    "city": ""
+  },
+  {
+    "id": "3830375935",
+    "longitude": "21.4735236",
+    "latitude": "41.9820014",
+    "amenity": "pharmacy",
+    "name": "ZEGIN",
+    "city": ""
+  },
+  {
+    "id": "3832362529",
+    "longitude": "21.4198380",
+    "latitude": "41.9899658",
+    "amenity": "pharmacy",
+    "name": "Виола",
+    "city": ""
+  },
+  {
+    "id": "3832368052",
+    "longitude": "21.4196296",
+    "latitude": "41.9898127",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "4125379517",
+    "longitude": "21.4128098",
+    "latitude": "42.0009982",
+    "amenity": "hospital",
+    "name": "Центар за ментално здравје",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "4125379518",
+    "longitude": "21.4130411",
+    "latitude": "42.0010726",
+    "amenity": "hospital",
+    "name": "ПЗУ „Д-р Горица“",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "4138200603",
+    "longitude": "21.4145316",
+    "latitude": "42.0005964",
+    "amenity": "hospital",
+    "name": "Неуромедика",
+    "city": ""
+  },
+  {
+    "id": "4247656089",
+    "longitude": "20.8824258",
+    "latitude": "41.8353984",
+    "amenity": "hospital",
+    "name": "Hospital",
+    "city": ""
+  },
+  {
+    "id": "4247664089",
+    "longitude": "20.9078402",
+    "latitude": "41.7964971",
+    "amenity": "pharmacy",
+    "name": "Pharmacy",
+    "city": ""
+  },
+  {
+    "id": "4249193094",
+    "longitude": "22.1948598",
+    "latitude": "41.7386419",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "4249277789",
+    "longitude": "22.1932659",
+    "latitude": "41.7379036",
+    "amenity": "pharmacy",
+    "name": "ЈАКА",
+    "city": ""
+  },
+  {
+    "id": "4264292908",
+    "longitude": "21.3602038",
+    "latitude": "42.0096500",
+    "amenity": "pharmacy",
+    "name": "Астра Фарм",
+    "city": ""
+  },
+  {
+    "id": "4266034098",
+    "longitude": "21.4377527",
+    "latitude": "41.9850045",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "4266843472",
+    "longitude": "20.9895857",
+    "latitude": "42.0044051",
+    "amenity": "pharmacy",
+    "name": "Kemofarmacia",
+    "city": ""
+  },
+  {
+    "id": "4281387289",
+    "longitude": "21.5118538",
+    "latitude": "42.0160266",
+    "amenity": "hospital",
+    "name": "Medical Point",
+    "city": ""
+  },
+  {
+    "id": "4306375307",
+    "longitude": "21.4114565",
+    "latitude": "42.0018882",
+    "amenity": "dentist",
+    "name": "Bela Dent",
+    "city": ""
+  },
+  {
+    "id": "4375519189",
+    "longitude": "21.4341995",
+    "latitude": "41.9928765",
+    "amenity": "pharmacy",
+    "name": "Зегин ( стара градска болница)",
+    "city": ""
+  },
+  {
+    "id": "4424578889",
+    "longitude": "20.8145984",
+    "latitude": "41.1171296",
+    "amenity": "dentist",
+    "name": "ПЗУ.ПОПОСКИ",
+    "city": ""
+  },
+  {
+    "id": "4429141991",
+    "longitude": "20.7980116",
+    "latitude": "41.1169284",
+    "amenity": "pharmacy",
+    "name": "Betty Farmaci",
+    "city": ""
+  },
+  {
+    "id": "4429142389",
+    "longitude": "20.8009464",
+    "latitude": "41.1157532",
+    "amenity": "pharmacy",
+    "name": "Pharmacy",
+    "city": ""
+  },
+  {
+    "id": "4429142390",
+    "longitude": "20.8004540",
+    "latitude": "41.1142839",
+    "amenity": "pharmacy",
+    "name": "Pharmacy",
+    "city": ""
+  },
+  {
+    "id": "4444127393",
+    "longitude": "22.0127357",
+    "latitude": "41.4367684",
+    "amenity": "dentist",
+    "name": "НЕА-ДЕНТ",
+    "city": ""
+  },
+  {
+    "id": "4449621005",
+    "longitude": "21.5737133",
+    "latitude": "41.9974707",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "4476978892",
+    "longitude": "21.4527160",
+    "latitude": "41.9886058",
+    "amenity": "dentist",
+    "name": "Ендомак",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "4478351891",
+    "longitude": "20.8025211",
+    "latitude": "41.1138247",
+    "amenity": "dentist",
+    "name": "PZU Terzievski",
+    "city": ""
+  },
+  {
+    "id": "4502450590",
+    "longitude": "20.9271416",
+    "latitude": "41.9413078",
+    "amenity": "pharmacy",
+    "name": "Apoteka Narten",
+    "city": ""
+  },
+  {
+    "id": "4502450790",
+    "longitude": "20.9271350",
+    "latitude": "41.9414043",
+    "amenity": "dentist",
+    "name": "Dr. Bali",
+    "city": ""
+  },
+  {
+    "id": "4502450989",
+    "longitude": "20.9253281",
+    "latitude": "41.9441196",
+    "amenity": "hospital",
+    "name": "Bolnica Kamenjane",
+    "city": ""
+  },
+  {
+    "id": "4502463698",
+    "longitude": "20.9282654",
+    "latitude": "41.9437196",
+    "amenity": "dentist",
+    "name": "Dr. Ylber Ramadani",
+    "city": ""
+  },
+  {
+    "id": "4512189989",
+    "longitude": "21.3825697",
+    "latitude": "42.0179859",
+    "amenity": "hospital",
+    "name": "Медика Центар",
+    "city": ""
+  },
+  {
+    "id": "4613945889",
+    "longitude": "21.4096194",
+    "latitude": "41.9922274",
+    "amenity": "dentist",
+    "name": "Dr. Margita",
+    "city": ""
+  },
+  {
+    "id": "4614661190",
+    "longitude": "21.4085080",
+    "latitude": "41.9969243",
+    "amenity": "pharmacy",
+    "name": "Опоум",
+    "city": ""
+  },
+  {
+    "id": "4725470590",
+    "longitude": "22.4993997",
+    "latitude": "41.1441187",
+    "amenity": "dentist",
+    "name": "Д-р Хилда Колева",
+    "city": ""
+  },
+  {
+    "id": "4776265422",
+    "longitude": "21.4407164",
+    "latitude": "42.0035328",
+    "amenity": "hospital",
+    "name": "ЈЗУ ЗДРАВСТВЕН ДОМ",
+    "city": ""
+  },
+  {
+    "id": "4846704246",
+    "longitude": "21.4276434",
+    "latitude": "41.9958705",
+    "amenity": "pharmacy",
+    "name": "Виола",
+    "city": ""
+  },
+  {
+    "id": "4846704247",
+    "longitude": "21.4273767",
+    "latitude": "41.9954508",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "4879918521",
+    "longitude": "22.5059247",
+    "latitude": "41.1467275",
+    "amenity": "dentist",
+    "name": "ЕНДОМАК Поликлиника и Заботехничка Лабороторија",
+    "city": ""
+  },
+  {
+    "id": "4885047822",
+    "longitude": "20.9773702",
+    "latitude": "42.0030792",
+    "amenity": "hospital",
+    "name": "ONE Hospital - Tetovo",
+    "city": ""
+  },
+  {
+    "id": "4906797823",
+    "longitude": "22.7824577",
+    "latitude": "41.9703608",
+    "amenity": "dentist",
+    "name": "Д-р Елена",
+    "city": ""
+  },
+  {
+    "id": "4906799121",
+    "longitude": "22.7795695",
+    "latitude": "41.9681666",
+    "amenity": "dentist",
+    "name": "Д-р Здравко",
+    "city": ""
+  },
+  {
+    "id": "4906876824",
+    "longitude": "22.7705482",
+    "latitude": "41.9653605",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "4908220821",
+    "longitude": "22.7802709",
+    "latitude": "41.9671338",
+    "amenity": "dentist",
+    "name": "Д-р Ванчо",
+    "city": ""
+  },
+  {
+    "id": "4915240922",
+    "longitude": "20.9711097",
+    "latitude": "42.0094415",
+    "amenity": "pharmacy",
+    "name": "Зегин Апотека",
+    "city": ""
+  },
+  {
+    "id": "4926298321",
+    "longitude": "21.4506076",
+    "latitude": "41.9909344",
+    "amenity": "dentist",
+    "name": "Скопјанка Супердент",
+    "city": ""
+  },
+  {
+    "id": "4990134422",
+    "longitude": "21.4394269",
+    "latitude": "42.0024902",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "5054709625",
+    "longitude": "21.5047496",
+    "latitude": "42.0042011",
+    "amenity": "pharmacy",
+    "name": "BETTY",
+    "city": ""
+  },
+  {
+    "id": "5056426626",
+    "longitude": "22.0142599",
+    "latitude": "41.4349918",
+    "amenity": "pharmacy",
+    "name": "Аптека \"Фарма-Медика\"",
+    "city": ""
+  },
+  {
+    "id": "5094555424",
+    "longitude": "21.4507243",
+    "latitude": "42.0618376",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "5130474890",
+    "longitude": "21.4271939",
+    "latitude": "41.9933702",
+    "amenity": "hospital",
+    "name": "Здравствен дом „Железничар“",
+    "city": ""
+  },
+  {
+    "id": "5160396347",
+    "longitude": "20.8701540",
+    "latitude": "41.9423987",
+    "amenity": "hospital",
+    "name": "Ambulanta",
+    "city": ""
+  },
+  {
+    "id": "5300516121",
+    "longitude": "20.9160281",
+    "latitude": "41.9230287",
+    "amenity": "pharmacy",
+    "name": "Еларда",
+    "city": ""
+  },
+  {
+    "id": "5333318379",
+    "longitude": "21.4010137",
+    "latitude": "42.0028618",
+    "amenity": "pharmacy",
+    "name": "Eurofarm",
+    "city": ""
+  },
+  {
+    "id": "5344777689",
+    "longitude": "21.3681630",
+    "latitude": "42.0072007",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "5344777690",
+    "longitude": "21.3682252",
+    "latitude": "42.0073336",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "5403989322",
+    "longitude": "22.7734322",
+    "latitude": "41.9721066",
+    "amenity": "pharmacy",
+    "name": "Центродел",
+    "city": ""
+  },
+  {
+    "id": "5601794407",
+    "longitude": "21.6155055",
+    "latitude": "41.9389005",
+    "amenity": "hospital",
+    "name": "Euroitalia",
+    "city": ""
+  },
+  {
+    "id": "5646430122",
+    "longitude": "21.4434522",
+    "latitude": "42.0130459",
+    "amenity": "hospital",
+    "name": "Visar",
+    "city": ""
+  },
+  {
+    "id": "5672626651",
+    "longitude": "21.7281424",
+    "latitude": "42.1336304",
+    "amenity": "pharmacy",
+    "name": "Bizade",
+    "city": ""
+  },
+  {
+    "id": "5761128321",
+    "longitude": "21.0130865",
+    "latitude": "41.0855049",
+    "amenity": "hospital",
+    "name": "Др.Пашковски",
+    "city": ""
+  },
+  {
+    "id": "5969332187",
+    "longitude": "20.7631403",
+    "latitude": "41.1348192",
+    "amenity": "hospital",
+    "name": "St. Erasmus Hospital",
+    "city": ""
+  },
+  {
+    "id": "5999496485",
+    "longitude": "21.7097350",
+    "latitude": "42.1374816",
+    "amenity": "hospital",
+    "name": "Hitna Pomos",
+    "city": ""
+  },
+  {
+    "id": "6054048888",
+    "longitude": "21.4403185",
+    "latitude": "41.9964634",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "city": ""
+  },
+  {
+    "id": "6054050093",
+    "longitude": "21.4224854",
+    "latitude": "41.9985010",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6054050097",
+    "longitude": "21.4152598",
+    "latitude": "42.0004895",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6079510884",
+    "longitude": "22.5892595",
+    "latitude": "42.0190397",
+    "amenity": "pharmacy",
+    "name": "VIVA",
+    "city": ""
+  },
+  {
+    "id": "6079524185",
+    "longitude": "22.5897895",
+    "latitude": "42.0191245",
+    "amenity": "pharmacy",
+    "name": "Pharmacy",
+    "city": ""
+  },
+  {
+    "id": "6079524186",
+    "longitude": "22.5908239",
+    "latitude": "42.0189979",
+    "amenity": "pharmacy",
+    "name": "VIVA",
+    "city": ""
+  },
+  {
+    "id": "6251285572",
+    "longitude": "22.3341756",
+    "latitude": "42.2044806",
+    "amenity": "dentist",
+    "name": "Д-р Гордана Павловска",
+    "city": "Kriva Palanka"
+  },
+  {
+    "id": "6251285573",
+    "longitude": "22.3353871",
+    "latitude": "42.2033182",
+    "amenity": "dentist",
+    "name": "Гокодент",
+    "city": "Kriva Palanka"
+  },
+  {
+    "id": "6277406771",
+    "longitude": "21.5809699",
+    "latitude": "41.9931161",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "city": ""
+  },
+  {
+    "id": "6278889139",
+    "longitude": "21.4406066",
+    "latitude": "42.0105657",
+    "amenity": "pharmacy",
+    "name": "Bett",
+    "city": ""
+  },
+  {
+    "id": "6279836416",
+    "longitude": "21.4259201",
+    "latitude": "41.9907383",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "city": ""
+  },
+  {
+    "id": "6279846683",
+    "longitude": "21.3275880",
+    "latitude": "41.9922216",
+    "amenity": "pharmacy",
+    "name": "Barnatore",
+    "city": ""
+  },
+  {
+    "id": "6281189208",
+    "longitude": "21.5872765",
+    "latitude": "41.9890443",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "city": ""
+  },
+  {
+    "id": "6281672840",
+    "longitude": "21.3256447",
+    "latitude": "41.9980469",
+    "amenity": "dentist",
+    "name": "Family Dental",
+    "city": ""
+  },
+  {
+    "id": "6281849279",
+    "longitude": "21.4431560",
+    "latitude": "42.0086285",
+    "amenity": "pharmacy",
+    "name": "АПТЕКА BARNATORE",
+    "city": ""
+  },
+  {
+    "id": "6281849280",
+    "longitude": "21.4434403",
+    "latitude": "42.0082379",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "6281849281",
+    "longitude": "21.4429723",
+    "latitude": "42.0075593",
+    "amenity": "pharmacy",
+    "name": "Аптека",
+    "city": ""
+  },
+  {
+    "id": "6281993272",
+    "longitude": "21.4438641",
+    "latitude": "42.0151742",
+    "amenity": "pharmacy",
+    "name": "BETTY",
+    "city": ""
+  },
+  {
+    "id": "6281993278",
+    "longitude": "21.4393607",
+    "latitude": "42.0132431",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6281993283",
+    "longitude": "21.4356244",
+    "latitude": "42.0128994",
+    "amenity": "pharmacy",
+    "name": "Vita Farm",
+    "city": ""
+  },
+  {
+    "id": "6289927529",
+    "longitude": "21.4722875",
+    "latitude": "41.9751104",
+    "amenity": "pharmacy",
+    "name": "Еурофарм Аптека",
+    "city": ""
+  },
+  {
+    "id": "6291421026",
+    "longitude": "21.4438185",
+    "latitude": "41.9771244",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": ""
+  },
+  {
+    "id": "6291421027",
+    "longitude": "21.4389590",
+    "latitude": "41.9762181",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": ""
+  },
+  {
+    "id": "6347485641",
+    "longitude": "22.4646543",
+    "latitude": "41.7613575",
+    "amenity": "hospital",
+    "name": "Партизанска болница",
+    "city": ""
+  },
+  {
+    "id": "6384505886",
+    "longitude": "20.9035260",
+    "latitude": "41.7929628",
+    "amenity": "hospital",
+    "name": "Болница Ферид Мурад",
+    "city": ""
+  },
+  {
+    "id": "6812666799",
+    "longitude": "21.7196234",
+    "latitude": "42.1396951",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6814246729",
+    "longitude": "21.4245363",
+    "latitude": "41.9949134",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6815918388",
+    "longitude": "21.4226605",
+    "latitude": "41.9982536",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6827074011",
+    "longitude": "21.4395140",
+    "latitude": "42.0011550",
+    "amenity": "dentist",
+    "name": "Hami",
+    "city": ""
+  },
+  {
+    "id": "6830542298",
+    "longitude": "20.8135786",
+    "latitude": "41.1191275",
+    "amenity": "dentist",
+    "name": "Dentesa",
+    "city": ""
+  },
+  {
+    "id": "6830542299",
+    "longitude": "20.8136110",
+    "latitude": "41.1190568",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6831648787",
+    "longitude": "20.8127235",
+    "latitude": "41.1156874",
+    "amenity": "pharmacy",
+    "name": "Viafarm",
+    "city": ""
+  },
+  {
+    "id": "6831648818",
+    "longitude": "20.8048581",
+    "latitude": "41.1132284",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6833100691",
+    "longitude": "20.8007114",
+    "latitude": "41.1176215",
+    "amenity": "pharmacy",
+    "name": "Maja pharm",
+    "city": ""
+  },
+  {
+    "id": "6833103289",
+    "longitude": "20.8050939",
+    "latitude": "41.1128537",
+    "amenity": "dentist",
+    "name": "Jolevski",
+    "city": ""
+  },
+  {
+    "id": "6833103385",
+    "longitude": "20.8062559",
+    "latitude": "41.1197458",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6833103389",
+    "longitude": "20.7993691",
+    "latitude": "41.1177349",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "6833103489",
+    "longitude": "20.8152083",
+    "latitude": "41.1158373",
+    "amenity": "pharmacy",
+    "name": "Flos",
+    "city": ""
+  },
+  {
+    "id": "6833103501",
+    "longitude": "20.8038998",
+    "latitude": "41.1164144",
+    "amenity": "dentist",
+    "name": "Dent inn",
+    "city": ""
+  },
+  {
+    "id": "6833103504",
+    "longitude": "20.8046713",
+    "latitude": "41.1183245",
+    "amenity": "pharmacy",
+    "name": "Viapharm",
+    "city": ""
+  },
+  {
+    "id": "6833104286",
+    "longitude": "20.8068331",
+    "latitude": "41.1145898",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6837039894",
+    "longitude": "20.8147633",
+    "latitude": "41.1172040",
+    "amenity": "pharmacy",
+    "name": "Plus pharma",
+    "city": ""
+  },
+  {
+    "id": "6837039900",
+    "longitude": "20.8091001",
+    "latitude": "41.1157903",
+    "amenity": "pharmacy",
+    "name": "Jaliar",
+    "city": ""
+  },
+  {
+    "id": "6837039903",
+    "longitude": "20.8089137",
+    "latitude": "41.1116502",
+    "amenity": "pharmacy",
+    "name": "Kami pharma",
+    "city": ""
+  },
+  {
+    "id": "6837039904",
+    "longitude": "20.8090724",
+    "latitude": "41.1113809",
+    "amenity": "pharmacy",
+    "name": "Mazarow",
+    "city": ""
+  },
+  {
+    "id": "6837046288",
+    "longitude": "20.8145136",
+    "latitude": "41.1166173",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  },
+  {
+    "id": "6906971756",
+    "longitude": "22.4601554",
+    "latitude": "41.6389019",
+    "amenity": "pharmacy",
+    "name": "ZEGIN",
+    "city": ""
+  },
+  {
+    "id": "6913306084",
+    "longitude": "21.4292568",
+    "latitude": "42.0247319",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "7027084885",
+    "longitude": "21.4235554",
+    "latitude": "41.9919437",
+    "amenity": "hospital",
+    "name": "Стоматолошка Ординација",
+    "city": ""
+  },
+  {
+    "id": "7124138448",
+    "longitude": "22.7224460",
+    "latitude": "41.1834446",
+    "amenity": "dentist",
+    "name": "Polydent",
+    "city": "Стар Дојран"
+  },
+  {
+    "id": "7173141269",
+    "longitude": "21.0014229",
+    "latitude": "42.0343370",
+    "amenity": "hospital",
+    "name": "NATURA MEDIKA",
+    "city": ""
+  },
+  {
+    "id": "7373066519",
+    "longitude": "22.1978295",
+    "latitude": "41.7436809",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "7373066520",
+    "longitude": "22.2011807",
+    "latitude": "41.7500361",
+    "amenity": "pharmacy",
+    "name": "Зегин",
+    "city": ""
+  },
+  {
+    "id": "8124609217",
+    "longitude": "21.4672077",
+    "latitude": "42.0037470",
+    "amenity": "pharmacy",
+    "name": "Еурофарм аптека",
+    "city": ""
+  },
+  {
+    "id": "8188519794",
+    "longitude": "21.4265268",
+    "latitude": "41.9968203",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "8393939617",
+    "longitude": "21.5332026",
+    "latitude": "41.9347627",
+    "amenity": "hospital",
+    "name": "lindi 2022",
+    "city": ""
+  },
+  {
+    "id": "8434537936",
+    "longitude": "21.5158516",
+    "latitude": "41.9398219",
+    "amenity": "hospital",
+    "name": "PZU \"Deona MM\"",
+    "city": "Драчево"
+  },
+  {
+    "id": "8494240822",
+    "longitude": "21.4114399",
+    "latitude": "42.0026365",
+    "amenity": "pharmacy",
+    "name": "Зегин - Моја Аптека",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "8615953943",
+    "longitude": "21.4114304",
+    "latitude": "42.0025921",
+    "amenity": "dentist",
+    "name": "Терадент",
+    "city": "Cкoпje"
+  },
+  {
+    "id": "8745676373",
+    "longitude": "21.4288200",
+    "latitude": "41.9933214",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": ""
+  },
+  {
+    "id": "8909816033",
+    "longitude": "21.3367291",
+    "latitude": "41.0269000",
+    "amenity": "pharmacy",
+    "name": "Еурофарм - Центар",
+    "city": ""
+  },
+  {
+    "id": "8976090570",
+    "longitude": "21.4512282",
+    "latitude": "42.0555686",
+    "amenity": "pharmacy",
+    "name": "Еурофарм",
+    "city": ""
+  },
+  {
+    "id": "9091826489",
+    "longitude": "21.5599606",
+    "latitude": "41.3435181",
+    "amenity": "pharmacy",
+    "name": "Алек Фарм",
+    "city": ""
+  },
+  {
+    "id": "9200216066",
+    "longitude": "21.4359938",
+    "latitude": "41.9896172",
+    "amenity": "pharmacy",
+    "name": "Eurofarm",
+    "city": ""
+  },
+  {
+    "id": "9200216440",
+    "longitude": "21.4284796",
+    "latitude": "41.9922394",
+    "amenity": "pharmacy",
+    "name": "Zegin",
+    "city": ""
+  },
+  {
+    "id": "9200216556",
+    "longitude": "21.4152038",
+    "latitude": "42.0005157",
+    "amenity": "pharmacy",
+    "name": "Betty",
+    "city": ""
+  }
+]

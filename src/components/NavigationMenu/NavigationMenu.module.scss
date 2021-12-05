@@ -1,0 +1,81 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #34735c;
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  bottom: 0;
+  color: white;
+  padding: 0 10px;
+  border-right: 1px solid black;
+  .collapse {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 20px;
+    height: 20px;
+    filter: brightness(100%) invert(1);
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    div {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+      img {
+        width: 40px;
+        height: 40px;
+        filter: brightness(100%) invert(1);
+        color: white;
+        fill: white;
+        stroke: white;
+      }
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+  .mapMenu {
+    width: 100%;
+    .button {
+      background-color: orange;
+      padding: 10px;
+      outline: none;
+      border: none;
+    }
+    .checkboxes {
+      margin-top: 10px;
+    }
+    select {
+      height: 38px;
+      width: 80%;
+    }
+    .search {
+      height: 34px;
+      width: 90%;
+      margin-bottom: 20px;
+    }
+  }
+  &.collapsed {
+    .logo {
+      width: 40px;
+      height: 40px;
+      margin-bottom: 20px;
+    }
+    .content {
+      gap: 25px;
+      img {
+        width: 30px;
+        height: 30px;
+      }
+    }
+  }
+}
