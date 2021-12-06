@@ -1,0 +1,21 @@
+.landing {
+  background-image: url('https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a5285fafe19f13c9976425_doktori1.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  .content {
+    margin-left: 50px;
+
+    h1 {
+      font-size: 50px;
+    }
+    h3 {
+      font-size: 25px;
+    }
+  }
+}

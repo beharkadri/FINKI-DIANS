@@ -1,0 +1,28 @@
+[
+  {
+    "picture": "https://cdn-icons-png.flaticon.com/512/180/180678.png",
+    "name": "Shpresa Zendeli",
+    "description": "Designer"
+  },
+  {
+    "picture": "https://www.shareicon.net/data/512x512/2016/07/26/802001_man_512x512.png",
+    "name": "Behar Kadri",
+    "description": "Full Stack Developer"
+  },
+  {
+    "picture": "https://freesvg.org/img/Male-Avatar.png",
+    "name": "Flamur Bakiu",
+    "description": "Front End Developer"
+  },
+  {
+    "picture": "https://www.shareicon.net/data/512x512/2016/07/26/802007_man_512x512.png",
+    "name": "Agron Bajrami",
+    "description": "Project Manager"
+  },
+
+  {
+    "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png",
+    "name": "Hasib Ibrahimi",
+    "description": "Back End Developer"
+  }
+]
