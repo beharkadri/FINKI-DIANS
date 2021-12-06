@@ -1,10 +1,10 @@
 import React, { Fragment } from 'react';
 import MapSection from '../components/MapSection/MapSection';
 
-function Map() {
+function Map({ institutions }) {
   return (
     <Fragment>
-      <MapSection />
+      <MapSection institutions={institutions} />
     </Fragment>
   );
 }
