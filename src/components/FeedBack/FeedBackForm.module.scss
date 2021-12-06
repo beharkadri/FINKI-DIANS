@@ -1,0 +1,38 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  h2 {
+    color: #dfa876;
+    font-size: 40px;
+  }
+
+  form {
+    margin-top: 10px;
+
+    label {
+      color: #dfa876;
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    input,
+    textarea {
+      font-size: 16px;
+      width: 400px;
+      padding: 5px 10px;
+      margin: 8px 0 15px;
+      outline: none;
+      border: 2px solid lightgray;
+    }
+
+    input:focus,
+    textarea:focus {
+      background-color: #ccfffc;
+      border: 2px solid white;
+    }
+  }
+}
