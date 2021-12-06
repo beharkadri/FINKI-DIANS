@@ -14,18 +14,21 @@ const Modal = ({ show, close, title, children }) => {
                 <img src={Close} alt='close' />
               </button>
             </header>
-            <main className={styles.modal_content}>
-              <textarea placeholder='Tell us about your experiences in this institution...'></textarea>
-            </main>
-            <footer className={styles.modal_footer}>
-              <button className={styles.modal - close} onClick={() => close()}>
-                Cancel
-              </button>
+            <main className={styles.modal_content}>{children}</main>
+            {title !== 'Institution reviews' && (
+              <footer className={styles.modal_footer}>
+                <button
+                  className={styles.modal - close}
+                  onClick={() => close()}
+                >
+                  Cancel
+                </button>
 
-              <button className={styles.submit} onClick={() => close()}>
-                Submit
-              </button>
-            </footer>
+                <button className={styles.submit} onClick={() => close()}>
+                  Submit
+                </button>
+              </footer>
+            )}
           </div>
         </div>
       ) : null}

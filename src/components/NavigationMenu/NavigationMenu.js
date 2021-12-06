@@ -65,42 +65,44 @@ const NavigationMenu = () => {
           </NavLink>
         </div>
       ) : (
-        <div className={styles.mapMenu}>
-          <button
-            className={styles.button}
-            onClick={() => setMapSection(false)}
-          >
-            Back to Menu
-          </button>
-          <div className={styles.checkboxes}>
-            <div>
-              <input name='Hospitals' type='checkbox' />
-              <span>Hospitals</span>
+        !collapsed && (
+          <div className={styles.mapMenu}>
+            <button
+              className={styles.button}
+              onClick={() => setMapSection(false)}
+            >
+              Back to Menu
+            </button>
+            <div className={styles.checkboxes}>
+              <div>
+                <input name='Hospitals' type='checkbox' />
+                <span>Hospitals</span>
+              </div>
+              <div>
+                <input name='Pharmacies' type='checkbox' />
+                <span>Pharmacies</span>
+              </div>
+              <div>
+                <input name='Dentists' type='checkbox' />
+                <span>Dentists</span>
+              </div>
             </div>
-            <div>
-              <input name='Pharmacies' type='checkbox' />
-              <span>Pharmacies</span>
-            </div>
-            <div>
-              <input name='Dentists' type='checkbox' />
-              <span>Dentists</span>
-            </div>
+            <h3>Search institution's city</h3>
+            <select id='cities'>
+              <option>Skopje</option>
+              <option>Skopje</option>
+              <option>Skopje</option>
+            </select>
+            <h3>Search by name</h3>
+            <input
+              className={styles.search}
+              type='text'
+              placeholder='Search...'
+            />
+            <br />
+            <button className={styles.button}>Search</button>
           </div>
-          <h3>Search institution's city</h3>
-          <select id='cities'>
-            <option>Skopje</option>
-            <option>Skopje</option>
-            <option>Skopje</option>
-          </select>
-          <h3>Search by name</h3>
-          <input
-            className={styles.search}
-            type='text'
-            placeholder='Search...'
-          />
-          <br />
-          <button className={styles.button}>Search</button>
-        </div>
+        )
       )}
     </div>
   );

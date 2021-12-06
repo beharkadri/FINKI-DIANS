@@ -4,8 +4,10 @@ import Modal from '../Modal/Modal';
 
 const MapSection = ({ institutions }) => {
   const [modal, setModal] = useState(false);
+  const [modal1, setModal1] = useState(false);
 
   const toggleHandler = () => setModal(!modal);
+  const toggleHandler1 = () => setModal1(!modal1);
   return (
     <>
       <MapContainer
@@ -23,6 +25,7 @@ const MapSection = ({ institutions }) => {
               <Popup>
                 {obj.amenity} <br /> {obj.name}.<br />
                 <button onClick={() => toggleHandler()}>Leave a review</button>
+                <button onClick={() => toggleHandler1()}>See reviews</button>
               </Popup>
             </Marker>
           ))}
@@ -31,7 +34,23 @@ const MapSection = ({ institutions }) => {
         show={modal}
         title={`Leave a review for institution`}
         close={toggleHandler}
-      ></Modal>
+      >
+        <textarea placeholder='Tell us about your experiences in this institution...'></textarea>
+      </Modal>
+      <Modal show={modal1} title={`Institution reviews`} close={toggleHandler1}>
+        <div>
+          <h3>User</h3>
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+        <div>
+          <h3>User</h3>
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+        <div>
+          <h3>User</h3>
+          <p>Lorem ipsum dolor sit amet...</p>
+        </div>
+      </Modal>
     </>
   );
 };
