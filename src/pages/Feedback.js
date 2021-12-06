@@ -1,11 +1,7 @@
-import React, { Fragment } from 'react';
+import FeedBackForm from '../components/FeedBack/FeedBackForm';
 
 function FeedBack() {
-  return (
-    <Fragment>
-      <h1>FeedBack</h1>
-    </Fragment>
-  );
+  return <FeedBackForm />;
 }
 
 export default FeedBack;

@@ -4,7 +4,6 @@ import { Route, Switch } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import HomePage from './pages/HomePage';
 import Map from './pages/Map';
-import HowToSearch from './pages/HowToSearch';
 import FeedBack from './pages/Feedback';
 import Team from './pages/Team';
 import firebase from 'firebase/app';
@@ -76,10 +75,6 @@ function App() {
 
         <Route path='/map' exact>
           <Map institutions={institutions} />
-        </Route>
-
-        <Route path='/how-to-search' exact>
-          <HowToSearch />
         </Route>
 
         <Route path='/feedback' exact>

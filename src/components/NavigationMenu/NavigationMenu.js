@@ -5,7 +5,6 @@ import styles from './NavigationMenu.module.scss';
 import map from '../../assets/Icons/19253118171536669843.svg';
 import comment from '../../assets/Icons/16558105781580594410.svg';
 import team from '../../assets/Icons/14233826931544610471.svg';
-import manual from '../../assets/Icons/7945183341586788047.svg';
 import hamburger from '../../assets/Icons/hamburger-menu.svg';
 import { Link, NavLink } from 'react-router-dom';
 
@@ -26,7 +25,7 @@ const NavigationMenu = () => {
           alt='Logo'
           className={styles.logo}
         />
-        {!collapsed && <h1>HealthMap.mk</h1>}
+        {!collapsed && <h1>HealthMap.мк</h1>}
       </Link>
 
       {mapSection === false ? (
@@ -40,13 +39,6 @@ const NavigationMenu = () => {
             >
               <img src={map} alt='Map' />
               {!collapsed && <h2>Map</h2>}
-            </div>
-          </NavLink>
-
-          <NavLink to='/how-to-search' activeClassName={styles.activeElement}>
-            <div>
-              <img src={manual} alt='Manual' />
-              {!collapsed && <h2>How to Search</h2>}
             </div>
           </NavLink>
 

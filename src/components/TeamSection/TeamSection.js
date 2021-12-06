@@ -6,13 +6,16 @@ import Card from '../Card/Card';
 const TeamSection = () => {
   return (
     <div className={styles.team}>
-      {teamData.map((member) => (
-        <Card
-          picture={member.picture}
-          name={member.name}
-          description={member.description}
-        />
-      ))}
+      <h2>Our Team</h2>
+      <div className={styles.members}>
+        {teamData.map((member) => (
+          <Card
+            picture={member.picture}
+            name={member.name}
+            description={member.description}
+          />
+        ))}
+      </div>
     </div>
   );
 };

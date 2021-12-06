@@ -4,8 +4,10 @@ const Card = ({ picture, name, description }) => {
   return (
     <div className={styles.card}>
       <img src={picture} alt='Profile' />
-      <h2>{name}</h2>
-      <p>{description}</p>
+      <div className={styles.content}>
+        <h3>{name}</h3>
+        <p>{description}</p>
+      </div>
     </div>
   );
 };

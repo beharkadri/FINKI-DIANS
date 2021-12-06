@@ -1,27 +1,28 @@
 [
   {
-    "picture": "https://picsum.photos/100",
-    "name": "Agron Bajrami",
-    "description": "Lorem ipsum dolor sit amet...."
-  },
-  {
-    "picture": "https://picsum.photos/100",
-    "name": "Flamur Bakiu",
-    "description": "Lorem ipsum dolor sit amet...."
-  },
-  {
-    "picture": "https://picsum.photos/100",
-    "name": "Behar Kadri",
-    "description": "Lorem ipsum dolor sit amet...."
-  },
-  {
-    "picture": "https://picsum.photos/100",
+    "picture": "https://cdn-icons-png.flaticon.com/512/180/180678.png",
     "name": "Shpresa Zendeli",
-    "description": "Lorem ipsum dolor sit amet...."
+    "description": "Designer"
   },
   {
-    "picture": "https://picsum.photos/100",
+    "picture": "https://www.shareicon.net/data/512x512/2016/07/26/802001_man_512x512.png",
+    "name": "Behar Kadri",
+    "description": "Full Stack Developer"
+  },
+  {
+    "picture": "https://freesvg.org/img/Male-Avatar.png",
+    "name": "Flamur Bakiu",
+    "description": "Front End Developer"
+  },
+  {
+    "picture": "https://www.shareicon.net/data/512x512/2016/07/26/802007_man_512x512.png",
+    "name": "Agron Bajrami",
+    "description": "Project Manager"
+  },
+
+  {
+    "picture": "https://icons-for-free.com/iconfiles/png/512/boy+character+man+user+icon-1320085976934394387.png",
     "name": "Hasib Ibrahimi",
-    "description": "Lorem ipsum dolor sit amet...."
+    "description": "Back End Developer"
   }
 ]

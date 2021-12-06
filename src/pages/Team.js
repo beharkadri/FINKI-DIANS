@@ -1,12 +1,7 @@
-import React, { Fragment } from 'react';
 import TeamSection from '../components/TeamSection/TeamSection';
 
 function Team() {
-  return (
-    <Fragment>
-      <TeamSection />
-    </Fragment>
-  );
+  return <TeamSection />;
 }
 
 export default Team;
