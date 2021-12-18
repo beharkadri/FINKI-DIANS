@@ -1,7 +1,10 @@
 import MapSection from '../components/MapSection/MapSection';
 
-function Map({ institutions }) {
+import useContent from '../hooks/use-content';
+
+const Map = () => {
+  const { institutions } = useContent('institutions');
   return <MapSection institutions={institutions} />;
-}
+};
 
 export default Map;

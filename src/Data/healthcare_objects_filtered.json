@@ -309,7 +309,7 @@
     "latitude": "41.9869002",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Скопје"
   },
   {
     "id": "1850511011",
@@ -317,7 +317,7 @@
     "latitude": "42.0601589",
     "amenity": "hospital",
     "name": "Манолеви",
-    "city": ""
+    "city": "Скопје"
   },
   {
     "id": "1855982570",
@@ -325,7 +325,7 @@
     "latitude": "42.0161642",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": ""
+    "city": "Скопје"
   },
   {
     "id": "1857472128",
@@ -525,7 +525,7 @@
     "latitude": "42.1197425",
     "amenity": "hospital",
     "name": "Poliklinika \"Goce Delcev\"",
-    "city": ""
+    "city": "Куманово"
   },
   {
     "id": "3695356142",
@@ -1037,7 +1037,7 @@
     "latitude": "42.1336304",
     "amenity": "pharmacy",
     "name": "Bizade",
-    "city": ""
+    "city": "Куманово"
   },
   {
     "id": "5761128321",
@@ -1061,7 +1061,7 @@
     "latitude": "42.1374816",
     "amenity": "hospital",
     "name": "Hitna Pomos",
-    "city": ""
+    "city": "Куманово"
   },
   {
     "id": "6054048888",
@@ -1085,7 +1085,7 @@
     "latitude": "42.0004895",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Куманово"
   },
   {
     "id": "6079510884",
