@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useContext, useRef } from 'react';
 
 import styles from './NavigationMenu.module.scss';
 
@@ -7,10 +7,42 @@ import comment from '../../assets/Icons/16558105781580594410.svg';
 import team from '../../assets/Icons/14233826931544610471.svg';
 import hamburger from '../../assets/Icons/hamburger-menu.svg';
 import { Link, NavLink } from 'react-router-dom';
+import { MenuContext } from '../../context/menu';
+
+import cities from '../../Data/cities';
 
 const NavigationMenu = () => {
   const [mapSection, setMapSection] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
+  const [searchParams, setSearchParams] = useContext(MenuContext);
+  const searchRef = useRef(null);
+  const selectRef = useRef(null);
+
+  let categories =
+    searchParams == null
+      ? {
+          hospital: false,
+          dentist: false,
+          pharmacy: false,
+        }
+      : searchParams.categories;
+
+  const checkboxChangeHandler = (event) => {
+    const name = event.target.name;
+    const checked = event.target.checked;
+    categories[name] = checked;
+    console.log(categories);
+  };
+
+  const searchClickHandler = () => {
+    console.log(selectRef.current.value);
+    setSearchParams({
+      categories: { ...categories },
+      searchTerm: searchRef.current.value,
+      city: selectRef.current.value,
+    });
+  };
+
   return (
     <div className={`${styles.menu} ${collapsed === true && styles.collapsed}`}>
       <img
@@ -67,32 +99,50 @@ const NavigationMenu = () => {
             </button>
             <div className={styles.checkboxes}>
               <div>
-                <input name='Hospitals' type='checkbox' />
+                <input
+                  name='hospital'
+                  type='checkbox'
+                  onChange={checkboxChangeHandler}
+                />
                 <span>Hospitals</span>
               </div>
               <div>
-                <input name='Pharmacies' type='checkbox' />
+                <input
+                  name='pharmacy'
+                  type='checkbox'
+                  onChange={checkboxChangeHandler}
+                />
                 <span>Pharmacies</span>
               </div>
               <div>
-                <input name='Dentists' type='checkbox' />
+                <input
+                  name='dentist'
+                  type='checkbox'
+                  onChange={checkboxChangeHandler}
+                />
                 <span>Dentists</span>
               </div>
             </div>
             <h3>Search institution's city</h3>
-            <select id='cities'>
-              <option>Skopje</option>
-              <option>Skopje</option>
-              <option>Skopje</option>
+            <select id='cities' ref={selectRef}>
+              <option value={null}>---</option>
+              {cities.map((city, index) => (
+                <option key={city + index} value={city}>
+                  {city}
+                </option>
+              ))}
             </select>
             <h3>Search by name</h3>
             <input
               className={styles.search}
               type='text'
               placeholder='Search...'
+              ref={searchRef}
             />
             <br />
-            <button className={styles.button}>Search</button>
+            <button className={styles.button} onClick={searchClickHandler}>
+              Search
+            </button>
           </div>
         )
       )}
