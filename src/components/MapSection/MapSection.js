@@ -2,12 +2,22 @@ import { useState, useContext } from 'react';
 import { MenuContext } from '../../context/menu';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import Modal from '../Modal/Modal';
+import AuthContext from '../../context/auth-context';
+import { useHistory } from 'react-router-dom';
 
 const MapSection = ({ institutions }) => {
   const [modal, setModal] = useState(false);
   const [modal1, setModal1] = useState(false);
+  const authCtx = useContext(AuthContext);
+  const history = useHistory();
 
-  const toggleHandler = () => setModal(!modal);
+  const toggleHandler = () => {
+    if (authCtx.isLoggedIn) {
+      setModal(!modal);
+    } else {
+      history.replace('/auth');
+    }
+  };
   const toggleHandler1 = () => setModal1(!modal1);
 
   const [searchParams] = useContext(MenuContext);

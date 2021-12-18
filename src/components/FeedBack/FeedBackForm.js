@@ -1,6 +1,10 @@
+import { useContext } from 'react';
+import AuthContext from '../../context/auth-context';
 import styles from './FeedBackForm.module.scss';
 
 function FeedBackForm() {
+  const authCtx = useContext(AuthContext);
+
   return (
     <div className={styles.feedback}>
       <h2>Feedback</h2>
@@ -12,7 +16,7 @@ function FeedBackForm() {
 
         <div>
           <label htmlFor='email'>Email Address</label> <br />
-          <input type='text' id='email' />
+          <input type='text' id='email' value={authCtx.email} disabled />
         </div>
 
         <div>

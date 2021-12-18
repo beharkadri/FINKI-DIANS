@@ -6,10 +6,13 @@ import map from '../../assets/Icons/19253118171536669843.svg';
 import comment from '../../assets/Icons/16558105781580594410.svg';
 import team from '../../assets/Icons/14233826931544610471.svg';
 import hamburger from '../../assets/Icons/hamburger-menu.svg';
+import login from '../../assets/Icons/login.svg';
 import { Link, NavLink } from 'react-router-dom';
 import { MenuContext } from '../../context/menu';
 
 import cities from '../../Data/cities';
+import AuthContext from '../../context/auth-context';
+import { useHistory } from 'react-router-dom';
 
 const NavigationMenu = () => {
   const [mapSection, setMapSection] = useState(false);
@@ -17,6 +20,10 @@ const NavigationMenu = () => {
   const [searchParams, setSearchParams] = useContext(MenuContext);
   const searchRef = useRef(null);
   const selectRef = useRef(null);
+  const authCtx = useContext(AuthContext);
+  const history = useHistory();
+
+  const isLoggedIn = authCtx.isLoggedIn;
 
   let categories =
     searchParams == null
@@ -41,6 +48,11 @@ const NavigationMenu = () => {
       searchTerm: searchRef.current.value,
       city: selectRef.current.value,
     });
+  };
+
+  const logoutHandler = () => {
+    authCtx.logout();
+    history.replace('/');
   };
 
   return (
@@ -74,12 +86,14 @@ const NavigationMenu = () => {
             </div>
           </NavLink>
 
-          <NavLink to='/feedback' activeClassName={styles.activeElement}>
-            <div>
-              <img src={comment} alt='Feedback' />
-              {!collapsed && <h2>Feedback</h2>}
-            </div>
-          </NavLink>
+          {isLoggedIn && (
+            <NavLink to='/feedback' activeClassName={styles.activeElement}>
+              <div>
+                <img src={comment} alt='Feedback' />
+                {!collapsed && <h2>Feedback</h2>}
+              </div>
+            </NavLink>
+          )}
 
           <NavLink to='/team' activeClassName={styles.activeElement}>
             <div>
@@ -87,6 +101,22 @@ const NavigationMenu = () => {
               {!collapsed && <h2>Our Team</h2>}
             </div>
           </NavLink>
+
+          {!isLoggedIn && (
+            <NavLink to='/auth' activeClassName={styles.activeElement}>
+              <div>
+                <img src={login} alt='Login' />
+                {!collapsed && <h2>Login</h2>}
+              </div>
+            </NavLink>
+          )}
+
+          {isLoggedIn && (
+            <div onClick={logoutHandler}>
+              <img src={login} alt='Login' />
+              {!collapsed && <h2>Logout</h2>}
+            </div>
+          )}
         </div>
       ) : (
         !collapsed && (
