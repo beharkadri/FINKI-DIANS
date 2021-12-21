@@ -21,7 +21,7 @@
     &_header {
       position: relative;
       border-bottom: 1px solid #dddddd;
-      &-title {
+      &.title {
         text-align: center;
       }
 
@@ -47,6 +47,8 @@
     &_content {
       border-bottom: 1px solid #dddddd;
       padding: 2rem 0;
+      max-height: 40vh;
+      overflow: auto;
       textarea {
         resize: vertical;
         min-height: 50px;
