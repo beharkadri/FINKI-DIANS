@@ -1,24 +1,32 @@
 import { useState, useContext } from 'react';
 import { MenuContext } from '../../context/menu';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
-import Modal from '../Modal/Modal';
+import LeaveReview from '../LeaveReview/LeaveReview';
 import AuthContext from '../../context/auth-context';
 import { useHistory } from 'react-router-dom';
+import SeeReviews from '../SeeReviews/SeeReviews';
 
 const MapSection = ({ institutions }) => {
   const [modal, setModal] = useState(false);
   const [modal1, setModal1] = useState(false);
   const authCtx = useContext(AuthContext);
   const history = useHistory();
+  const [institutionId, setInstitutionId] = useState('');
+  const [institutionId1, setInstitutionId1] = useState('');
 
-  const toggleHandler = () => {
+  const toggleHandler = (insId) => {
+    console.log('HANDLER CALL');
     if (authCtx.isLoggedIn) {
+      setInstitutionId(insId);
       setModal(!modal);
     } else {
       history.replace('/auth');
     }
   };
-  const toggleHandler1 = () => setModal1(!modal1);
+  const toggleHandler1 = (insId) => {
+    setInstitutionId1(insId);
+    setModal1(!modal1);
+  };
 
   const [searchParams] = useContext(MenuContext);
 
@@ -70,33 +78,34 @@ const MapSection = ({ institutions }) => {
             <Marker key={obj.id} position={[obj.latitude, obj.longitude]}>
               <Popup>
                 {obj.amenity} <br /> {obj.name}.<br />
-                <button onClick={() => toggleHandler()}>Leave a review</button>
-                <button onClick={() => toggleHandler1()}>See reviews</button>
+                <button onClick={() => toggleHandler(obj.id)}>
+                  Leave a review
+                </button>
+                <button onClick={() => toggleHandler1(obj.id)}>
+                  See reviews
+                </button>
               </Popup>
             </Marker>
           ))}
       </MapContainer>
-      <Modal
-        show={modal}
-        title={`Leave a review for institution`}
-        close={toggleHandler}
-      >
-        <textarea placeholder='Tell us about your experiences in this institution...'></textarea>
-      </Modal>
-      <Modal show={modal1} title={`Institution reviews`} close={toggleHandler1}>
-        <div>
-          <h3>User</h3>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div>
-          <h3>User</h3>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-        <div>
-          <h3>User</h3>
-          <p>Lorem ipsum dolor sit amet...</p>
-        </div>
-      </Modal>
+      {modal === true && (
+        <LeaveReview
+          show={modal}
+          title='Leave a review for institution'
+          user={authCtx.email}
+          institutionId={institutionId}
+          close={toggleHandler}
+        />
+      )}
+
+      {modal1 === true && (
+        <SeeReviews
+          show={modal1}
+          title={'All reviews for institution'}
+          institutionId={institutionId1}
+          close={toggleHandler1}
+        />
+      )}
     </>
   );
 };
