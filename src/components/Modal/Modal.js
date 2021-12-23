@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom';
 import styles from './Modal.module.scss';
-import Close from '../../assets/Icons/close.svg';
+import Close from '../../assets/Icons/cancel.png';
 //import { waitFor } from '@testing-library/react';
 
 const Modal = ({ show, modalTitle, close, children }) => {
@@ -16,6 +16,7 @@ const Modal = ({ show, modalTitle, close, children }) => {
                 <img src={Close} alt='close' />
               </button>
             </header>
+            <hr />
             <main className={styles.modal_content}>{children}</main>
           </div>
         </div>

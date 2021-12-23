@@ -2,8 +2,9 @@ import styles from './Review.module.scss';
 
 const Review = ({ user, content }) => (
   <div className={styles.review}>
-    <h2>{user}</h2>
+    <h3>{user}</h3>
     <p>{content}</p>
+    <hr />
   </div>
 );
 

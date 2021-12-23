@@ -4,9 +4,10 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  border-left: 3px solid white;
 
   h2 {
-    color: #dfa876;
+    color: white;
     font-size: 40px;
   }
 
@@ -14,19 +15,27 @@
     margin-top: 10px;
 
     label {
-      color: #dfa876;
+      color: white;
       font-size: 18px;
       font-weight: 600;
     }
 
     input,
     textarea {
+      // outline: none;
+      // border: 2px solid lightgray;
       font-size: 16px;
+      background-color: #c3dad1;
+      border-radius: 2px;
+      border: 1px solid white;
       width: 400px;
-      padding: 5px 10px;
+      text-align: left;
+      padding: 5px;
       margin: 8px 0 15px;
-      outline: none;
-      border: 2px solid lightgray;
+    }
+
+    textarea {
+      height: 80px;
     }
 
     input:focus,
