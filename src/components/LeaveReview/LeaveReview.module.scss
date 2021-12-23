@@ -1,0 +1,33 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+
+  textarea {
+    border: 2px solid #34735c;
+    background-color: #cee2da;
+    height: 100px;
+    font-size: 17px;
+    outline: none;
+  }
+
+  footer {
+    text-align: right;
+
+    button {
+      background-color: #34735c;
+      color: white;
+      border: 0;
+      padding: 8px 15px;
+      margin: 10px 0 0 10px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #184e3a;
+      border-color: #184e3a;
+    }
+  }
+}

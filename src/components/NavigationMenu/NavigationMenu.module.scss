@@ -62,12 +62,21 @@
   .mapMenu {
     width: 100%;
     .button {
-      background-color: orange;
-      padding: 10px;
-      outline: none;
-      border: none;
+      border-radius: 5px;
+      background-color: white;
+      border: 1px solid #34735c;
+      color: #34735c;
+      font-weight: 550;
+      padding: 12px 15px;
       cursor: pointer;
     }
+
+    .button:hover {
+      background-color: #4d977c;
+      border: 1px solid white;
+      color: white;
+    }
+
     .checkboxes {
       margin-top: 10px;
     }

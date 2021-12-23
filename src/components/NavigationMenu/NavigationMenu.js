@@ -113,7 +113,7 @@ const NavigationMenu = () => {
 
           {isLoggedIn && (
             <div onClick={logoutHandler}>
-              <img src={login} alt='Login' />
+              <img src={login} alt='Logout' />
               {!collapsed && <h2>Logout</h2>}
             </div>
           )}
