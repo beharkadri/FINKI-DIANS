@@ -4,12 +4,13 @@
   background-image: url('https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a5285fafe19f13c9976425_doktori1.jpeg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100%;
+  height: inherit;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-
+  //border-top: 5px solid red;
+  //border-bottom: 5px solid red;
   .content {
     margin-left: 50px;
 

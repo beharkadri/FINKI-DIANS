@@ -3,12 +3,14 @@
 .layout {
   display: flex;
   flex-direction: column-reverse;
+  //flex: 1 0;
+  //height: 100vh;
   @include small-screen-and-more {
     flex-direction: row;
   }
   .right {
     width: 100%;
-    height: calc(100vh - 52px);
+    height: calc(100vh - 108px);
     background-color: #34735c;
 
     @include small-screen-and-more {

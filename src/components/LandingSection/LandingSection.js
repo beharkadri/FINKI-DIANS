@@ -5,7 +5,7 @@ const LandingSection = () => {
     <div className={styles.landing}>
       <div className={styles.content}>
         <h1>HealthMap.мк</h1>
-        <h3>Find your nearest health institution!</h3>
+        <h3>Find your nearest healthcare institution!</h3>
       </div>
     </div>
   );

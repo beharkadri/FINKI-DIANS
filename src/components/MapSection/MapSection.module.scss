@@ -1,7 +1,7 @@
 @import '../../global/styles.scss';
 
 .map {
-  height: calc(100vh - 50px);
+  height: inherit;
   @include small-screen-and-more {
     height: 100vh;
   }
