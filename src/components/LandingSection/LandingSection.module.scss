@@ -1,3 +1,5 @@
+@import '../../global/styles.scss';
+
 .landing {
   background-image: url('https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a5285fafe19f13c9976425_doktori1.jpeg');
   background-repeat: no-repeat;
@@ -12,10 +14,16 @@
     margin-left: 50px;
 
     h1 {
-      font-size: 50px;
+      font-size: 20px;
+      @include small-screen-and-more {
+        font-size: 50px;
+      }
     }
     h3 {
-      font-size: 25px;
+      font-size: 15px;
+      @include small-screen-and-more {
+        font-size: 25px;
+      }
     }
   }
 }

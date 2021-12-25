@@ -38,11 +38,9 @@ const NavigationMenu = () => {
     const name = event.target.name;
     const checked = event.target.checked;
     categories[name] = checked;
-    console.log(categories);
   };
 
   const searchClickHandler = () => {
-    console.log(selectRef.current.value);
     setSearchParams({
       categories: { ...categories },
       searchTerm: searchRef.current.value,
@@ -54,6 +52,14 @@ const NavigationMenu = () => {
     authCtx.logout();
     history.replace('/');
   };
+
+  function getWindowDimensions() {
+    const { innerWidth: width, innerHeight: height } = window;
+    return {
+      width,
+      height,
+    };
+  }
 
   return (
     <div className={`${styles.menu} ${collapsed === true && styles.collapsed}`}>
@@ -68,6 +74,7 @@ const NavigationMenu = () => {
           src='https://uploads-ssl.webflow.com/61a4d4ec5f3f2821cd44ccba/61a4d62d14defd1f854036fe_mkmap.png'
           alt='Logo'
           className={styles.logo}
+          onClick={() => setMapSection(false)}
         />
         {!collapsed && <h1>HealthMap.мк</h1>}
       </Link>
@@ -77,7 +84,7 @@ const NavigationMenu = () => {
           <NavLink to='/map' activeClassName={styles.activeElement}>
             <div
               onClick={() => {
-                setMapSection(true);
+                getWindowDimensions().width >= 640 && setMapSection(true);
                 setCollapsed(false);
               }}
             >

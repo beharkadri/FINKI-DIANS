@@ -1,3 +1,5 @@
+@import '../../global/styles.scss';
+
 .modalContainer {
   position: fixed;
   top: 0;
@@ -9,14 +11,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  z-index: 99999;
+  z-index: 9999999;
   .modal {
-    width: 30vw;
+    width: 70vw;
     background-color: #dddddd;
     padding: 2rem;
     border-radius: 20px;
     backdrop-filter: blur(5px);
     box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+    @include small-screen-and-more {
+      width: 30vw;
+    }
     &_header {
       position: relative;
       border-bottom: 1px solid #dddddd;

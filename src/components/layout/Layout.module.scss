@@ -1,8 +1,18 @@
+@import '../../global/styles.scss';
+
 .layout {
   display: flex;
-  flex-direction: row;
+  flex-direction: column-reverse;
+  @include small-screen-and-more {
+    flex-direction: row;
+  }
   .right {
     width: 100%;
+    height: calc(100vh - 52px);
     background-color: #34735c;
+
+    @include small-screen-and-more {
+      height: 100vh;
+    }
   }
 }

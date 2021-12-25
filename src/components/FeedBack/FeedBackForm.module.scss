@@ -1,14 +1,17 @@
+@import '../../global/styles.scss';
+
 .feedback {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  border-left: 3px solid white;
+  height: 100%;
+  //border-left: 3px solid white;
 
   h2 {
     color: white;
     font-size: 40px;
+    border-bottom: 2px solid white;
   }
 
   form {
@@ -28,10 +31,13 @@
       background-color: #c3dad1;
       border-radius: 2px;
       border: 1px solid white;
-      width: 400px;
+      width: 250px;
       text-align: left;
       padding: 5px;
       margin: 8px 0 15px;
+      @include large-screen-and-more {
+        width: 400px;
+      }
     }
 
     textarea {

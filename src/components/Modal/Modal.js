@@ -1,10 +1,8 @@
 import ReactDOM from 'react-dom';
 import styles from './Modal.module.scss';
 import Close from '../../assets/Icons/cancel.png';
-//import { waitFor } from '@testing-library/react';
 
 const Modal = ({ show, modalTitle, close, children }) => {
-  console.log('Modal props', show, modalTitle, close);
   return ReactDOM.createPortal(
     <>
       {show ? (

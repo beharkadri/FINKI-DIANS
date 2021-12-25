@@ -7,7 +7,7 @@ import HomePage from './pages/HomePage';
 import Map from './pages/Map';
 import FeedBack from './pages/Feedback';
 import Team from './pages/Team';
-import './App.css';
+import './App.scss';
 import AuthPage from './pages/AuthPage';
 import AuthContext from './context/auth-context';
 

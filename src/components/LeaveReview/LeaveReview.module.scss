@@ -7,7 +7,11 @@
   textarea {
     border: 2px solid #34735c;
     background-color: #cee2da;
-    height: 100px;
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+    min-width: 100%;
+    overflow-y: auto;
     font-size: 17px;
     outline: none;
   }

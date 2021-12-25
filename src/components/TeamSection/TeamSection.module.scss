@@ -1,21 +1,30 @@
+@import '../../global/styles.scss';
+
 .team {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 100vh;
-  border-left: 3px solid white;
+  height: 100%;
+  @include small-screen-and-more {
+    overflow: none;
+    height: 100vh;
+  }
 
   h2 {
     color: white;
     font-size: 40px;
+    border-bottom: 2px solid white;
   }
 
   .members {
     display: flex;
     flex-wrap: wrap;
+    //flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 20px;
+    overflow: auto;
+    padding-bottom: 20px;
   }
 }

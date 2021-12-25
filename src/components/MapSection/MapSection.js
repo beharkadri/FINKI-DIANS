@@ -59,7 +59,7 @@ const MapSection = ({ institutions }) => {
   };
 
   const filterByCity = (arr) => {
-    return searchParams != null && searchParams.city !== '---'
+    return searchParams != null && searchParams.city !== 'City'
       ? arr.filter((institution) => institution.city === searchParams.city)
       : arr;
   };
@@ -105,7 +105,7 @@ const MapSection = ({ institutions }) => {
   }
 
   return (
-    <>
+    <div className={classes.map}>
       <MapContainer
         center={bounds.getCenter()}
         zoom={9}
@@ -181,7 +181,7 @@ const MapSection = ({ institutions }) => {
           close={toggleHandler1}
         />
       )}
-    </>
+    </div>
   );
 };
 

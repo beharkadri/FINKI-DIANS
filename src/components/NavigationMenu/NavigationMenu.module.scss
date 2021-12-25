@@ -1,27 +1,55 @@
+@import '../../global/styles.scss';
+
 .menu {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   background-color: #34735c;
-  height: 100vh;
+  height: 50px;
+  width: 100%;
   position: sticky;
-  top: 0;
+  top: 100%;
   bottom: 0;
-
+  border-top: 2px solid white;
   color: white;
-  padding: 0 10px;
-
-  .logo {
-    width: 250px;
+  @include small-screen-and-more {
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100vh;
+    width: auto;
+    top: 0;
+    padding: 0 10px;
+    border-top: none;
+    border-right: 2px solid white;
   }
-
+  .logo {
+    //@extend: 250px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 5px;
+    left: 10px;
+    @include small-screen-and-more {
+      position: static;
+      width: 250px;
+      height: auto;
+    }
+  }
+  h1 {
+    display: none;
+    @include small-screen-and-more {
+      font-size: 40px;
+      display: block;
+    }
+  }
   a {
     color: white;
     text-decoration: none;
   }
 
   .collapse {
+    display: block;
     position: absolute;
     cursor: pointer;
     top: 10px;
@@ -29,29 +57,64 @@
     width: 20px;
     height: 20px;
     filter: brightness(100%) invert(1);
+    @include small-screen-and-more {
+      display: block;
+      position: absolute;
+      cursor: pointer;
+      top: 10px;
+      left: 10px;
+      width: 20px;
+      height: 20px;
+      filter: brightness(100%) invert(1);
+    }
   }
   .content {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
-    align-items: flex-start;
-    gap: 15px;
-
+    align-items: center;
+    gap: 25px;
+    margin-left: 30px;
+    @include small-screen-and-more {
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      gap: 15px;
+      margin-left: 0;
+    }
     div {
       display: flex;
+      flex-direction: column;
       align-items: center;
-      gap: 15px;
+      //justify-content: center;
+      //height: 50px;
+      @include small-screen-and-more {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+        gap: 15px;
+      }
       img {
-        width: 40px;
-        height: 40px;
+        width: 20px;
+        height: 20px;
         filter: brightness(100%) invert(1);
         color: white;
         fill: white;
         stroke: white;
+        @include small-screen-and-more {
+          width: 40px;
+          height: 40px;
+        }
       }
 
       h2 {
-        font-size: 20px;
+        font-size: 12px;
+        margin: 0;
+        padding: 0;
+        @include small-screen-and-more {
+          font-size: 20px;
+        }
       }
 
       &:hover {
@@ -60,34 +123,38 @@
     }
   }
   .mapMenu {
-    width: 100%;
-    .button {
-      border-radius: 5px;
-      background-color: white;
-      border: 1px solid #34735c;
-      color: #34735c;
-      font-weight: 550;
-      padding: 12px 15px;
-      cursor: pointer;
-    }
+    display: none;
+    @include small-screen-and-more {
+      display: block;
+      width: 100%;
+      .button {
+        border-radius: 5px;
+        background-color: white;
+        border: 1px solid #34735c;
+        color: #34735c;
+        font-weight: 550;
+        padding: 12px 15px;
+        cursor: pointer;
+      }
 
-    .button:hover {
-      background-color: #4d977c;
-      border: 1px solid white;
-      color: white;
-    }
+      .button:hover {
+        background-color: #4d977c;
+        border: 1px solid white;
+        color: white;
+      }
 
-    .checkboxes {
-      margin-top: 10px;
-    }
-    select {
-      height: 38px;
-      width: 80%;
-    }
-    .search {
-      height: 34px;
-      width: 90%;
-      margin-bottom: 20px;
+      .checkboxes {
+        margin-top: 10px;
+      }
+      select {
+        height: 38px;
+        width: 80%;
+      }
+      .search {
+        height: 34px;
+        width: 90%;
+        margin-bottom: 20px;
+      }
     }
   }
   &.collapsed {
