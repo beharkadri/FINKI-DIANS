@@ -9,6 +9,7 @@ import useGeoLocation from '../../hooks/use-geolocation';
 import L from 'leaflet';
 
 import userMarker from '../../assets/Icons/marker.png';
+import classes from './MapSection.module.scss';
 
 const markerIcon = new L.Icon({
   iconUrl: userMarker,
@@ -20,8 +21,6 @@ const markerIcon = new L.Icon({
 const corner1 = L.latLng(40.5776464, 20.0139859);
 const corner2 = L.latLng(42.5040261, 23.3349122);
 const bounds = L.latLngBounds(corner1, corner2);
-
-import classes from './MapSection.module.scss';
 
 const MapSection = ({ institutions }) => {
   const [modal, setModal] = useState(false);
@@ -128,6 +127,7 @@ const MapSection = ({ institutions }) => {
                     <span>
                       {obj.name} - {obj.amenity}
                     </span>
+                    <br />
                     {location.loaded === true && (
                       <span>
                         Distance:{' '}
