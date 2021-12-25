@@ -15,7 +15,6 @@ const App = () => {
   const [searchParams, setSearchParams] = useState(null);
   const authCtx = useContext(AuthContext);
 
-  console.log('APP CALL');
   return (
     <MenuContext.Provider value={[searchParams, setSearchParams]}>
       <Layout>

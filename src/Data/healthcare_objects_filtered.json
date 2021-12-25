@@ -5,7 +5,7 @@
     "latitude": "42.0061233",
     "amenity": "pharmacy",
     "name": "Ремедиум",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "380920212",
@@ -13,7 +13,7 @@
     "latitude": "41.4439681",
     "amenity": "hospital",
     "name": "ЈЗУ Општа Болница",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "381141682",
@@ -21,7 +21,7 @@
     "latitude": "41.4331879",
     "amenity": "hospital",
     "name": "Itna medicinska sluzba",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "382650837",
@@ -29,7 +29,7 @@
     "latitude": "41.4366490",
     "amenity": "pharmacy",
     "name": "Flora",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "390436187",
@@ -37,7 +37,7 @@
     "latitude": "41.1128747",
     "amenity": "hospital",
     "name": "Брза помош-амбуланта",
-    "city": "Охрид"
+    "city": "Ohrid"
   },
   {
     "id": "443017399",
@@ -45,7 +45,7 @@
     "latitude": "41.9954834",
     "amenity": "pharmacy",
     "name": "Градска Аптека Маџари",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "444938811",
@@ -53,7 +53,7 @@
     "latitude": "41.9984708",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "444994545",
@@ -61,7 +61,7 @@
     "latitude": "42.0023086",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "446285567",
@@ -69,7 +69,7 @@
     "latitude": "41.9988883",
     "amenity": "hospital",
     "name": "Систина",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "459673288",
@@ -77,7 +77,7 @@
     "latitude": "41.9932326",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "464772764",
@@ -85,7 +85,7 @@
     "latitude": "42.1956200",
     "amenity": "hospital",
     "name": "Bolnica Primarius D-r. Dimitar Arsov",
-    "city": ""
+    "city": "Kriva Palanka"
   },
   {
     "id": "464772766",
@@ -93,7 +93,7 @@
     "latitude": "42.1966304",
     "amenity": "pharmacy",
     "name": "Melisa",
-    "city": ""
+    "city": "Kriva Palanka"
   },
   {
     "id": "473903011",
@@ -101,7 +101,7 @@
     "latitude": "42.2026734",
     "amenity": "pharmacy",
     "name": "City pharmacy",
-    "city": ""
+    "city": "Kriva Palanka"
   },
   {
     "id": "478041008",
@@ -109,7 +109,7 @@
     "latitude": "41.4334419",
     "amenity": "hospital",
     "name": "Asklepij",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "478041069",
@@ -117,7 +117,7 @@
     "latitude": "41.4335225",
     "amenity": "pharmacy",
     "name": "Flora",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "479803481",
@@ -125,7 +125,7 @@
     "latitude": "42.0064220",
     "amenity": "hospital",
     "name": "Eye Center VIZIA",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "484691167",
@@ -133,7 +133,7 @@
     "latitude": "41.9943778",
     "amenity": "pharmacy",
     "name": "Intergral Farm",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "497549513",
@@ -141,7 +141,7 @@
     "latitude": "41.7085000",
     "amenity": "hospital",
     "name": "Амбуланта",
-    "city": ""
+    "city": "Berovo"
   },
   {
     "id": "498850840",
@@ -149,7 +149,7 @@
     "latitude": "41.9972254",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "529807927",
@@ -157,7 +157,7 @@
     "latitude": "41.4352758",
     "amenity": "pharmacy",
     "name": "Flora",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "529810682",
@@ -165,7 +165,7 @@
     "latitude": "41.4383709",
     "amenity": "pharmacy",
     "name": "Flora",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "529811233",
@@ -173,7 +173,7 @@
     "latitude": "41.4345186",
     "amenity": "pharmacy",
     "name": "Flora",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "568024520",
@@ -181,7 +181,7 @@
     "latitude": "41.1815650",
     "amenity": "hospital",
     "name": "SANITA",
-    "city": ""
+    "city": "Struga"
   },
   {
     "id": "568024688",
@@ -189,7 +189,7 @@
     "latitude": "41.1810946",
     "amenity": "hospital",
     "name": "City hospital",
-    "city": ""
+    "city": "Struga"
   },
   {
     "id": "774775223",
@@ -197,7 +197,7 @@
     "latitude": "41.0880394",
     "amenity": "pharmacy",
     "name": "Farmalek 2005",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "774777038",
@@ -205,7 +205,7 @@
     "latitude": "41.0910636",
     "amenity": "pharmacy",
     "name": "Epoha",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "774779901",
@@ -213,7 +213,7 @@
     "latitude": "41.0920662",
     "amenity": "pharmacy",
     "name": "Anafarm",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "774784615",
@@ -221,7 +221,7 @@
     "latitude": "41.0899619",
     "amenity": "hospital",
     "name": "Здравствен дом Ресен",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "913077744",
@@ -229,7 +229,7 @@
     "latitude": "41.4345629",
     "amenity": "pharmacy",
     "name": "Remedia",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "913077746",
@@ -237,7 +237,7 @@
     "latitude": "41.4343618",
     "amenity": "pharmacy",
     "name": "Echo",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "1272903523",
@@ -245,7 +245,7 @@
     "latitude": "41.8872494",
     "amenity": "hospital",
     "name": "Bolnica Vinica",
-    "city": ""
+    "city": "Vinica"
   },
   {
     "id": "1381604857",
@@ -253,7 +253,7 @@
     "latitude": "41.9703449",
     "amenity": "hospital",
     "name": "Болница за зависности",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1381606894",
@@ -261,7 +261,7 @@
     "latitude": "41.9869370",
     "amenity": "hospital",
     "name": "Адриалаб",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1382090803",
@@ -269,7 +269,7 @@
     "latitude": "41.9835895",
     "amenity": "pharmacy",
     "name": "Apteka Biofit",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1382090805",
@@ -277,7 +277,7 @@
     "latitude": "41.9940569",
     "amenity": "pharmacy",
     "name": "Apteka Biofit",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1615832328",
@@ -285,7 +285,7 @@
     "latitude": "42.0032564",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1615847558",
@@ -293,7 +293,7 @@
     "latitude": "42.0034289",
     "amenity": "pharmacy",
     "name": "Херба",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1652699470",
@@ -301,7 +301,7 @@
     "latitude": "41.9919776",
     "amenity": "pharmacy",
     "name": "Уни Медикал",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1747986303",
@@ -309,7 +309,7 @@
     "latitude": "41.9869002",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": "Скопје"
+    "city": "Skopje"
   },
   {
     "id": "1850511011",
@@ -317,7 +317,7 @@
     "latitude": "42.0601589",
     "amenity": "hospital",
     "name": "Манолеви",
-    "city": "Скопје"
+    "city": "Skopje"
   },
   {
     "id": "1855982570",
@@ -325,7 +325,7 @@
     "latitude": "42.0161642",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": "Скопје"
+    "city": "Skopje"
   },
   {
     "id": "1857472128",
@@ -333,7 +333,7 @@
     "latitude": "42.0101421",
     "amenity": "dentist",
     "name": "PZU Prodentika",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "1999950864",
@@ -341,7 +341,7 @@
     "latitude": "41.4086240",
     "amenity": "hospital",
     "name": "Ambulanta",
-    "city": ""
+    "city": "Demir Kapija"
   },
   {
     "id": "2294320035",
@@ -349,7 +349,7 @@
     "latitude": "41.9960357",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "2362912161",
@@ -357,7 +357,7 @@
     "latitude": "42.0026568",
     "amenity": "pharmacy",
     "name": "Аптека Ремедиум Лек",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "2373004497",
@@ -365,7 +365,7 @@
     "latitude": "40.9990844",
     "amenity": "hospital",
     "name": "Диагностички центар св.Спас",
-    "city": "Битола"
+    "city": "Bitola"
   },
   {
     "id": "2405915015",
@@ -373,7 +373,7 @@
     "latitude": "41.4391631",
     "amenity": "hospital",
     "name": "Здравствен Дом Струмица",
-    "city": ""
+    "city": "Strumica"
   },
   {
     "id": "2410445420",
@@ -389,7 +389,7 @@
     "latitude": "41.1717857",
     "amenity": "hospital",
     "name": "Негорски Бањи",
-    "city": ""
+    "city": "Gevgelija"
   },
   {
     "id": "2545342992",
@@ -397,7 +397,7 @@
     "latitude": "40.9776464",
     "amenity": "hospital",
     "name": "ЈЗУ Завод за превенција лекување и рехабилитација на хронични респираторни неспецифични заболувања, Отешево",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "2574157872",
@@ -413,7 +413,7 @@
     "latitude": "41.9811356",
     "amenity": "pharmacy",
     "name": "Аптека Виола",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "2601311980",
@@ -421,7 +421,7 @@
     "latitude": "42.0032478",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "2670727606",
@@ -429,7 +429,7 @@
     "latitude": "41.4351790",
     "amenity": "hospital",
     "name": "Стара Градска болница",
-    "city": ""
+    "city": "Strumica"
   },
   {
     "id": "2919825967",
@@ -437,7 +437,7 @@
     "latitude": "41.8301443",
     "amenity": "pharmacy",
     "name": "Menti Farm Barnatore",
-    "city": ""
+    "city": "Gostivar"
   },
   {
     "id": "3022331502",
@@ -461,7 +461,7 @@
     "latitude": "41.9910923",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "3104012020",
@@ -469,7 +469,7 @@
     "latitude": "41.9943079",
     "amenity": "pharmacy",
     "name": "Eуpoфapм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "3187744358",
@@ -477,7 +477,7 @@
     "latitude": "41.6376490",
     "amenity": "pharmacy",
     "name": "Medea",
-    "city": ""
+    "city": "Radovis"
   },
   {
     "id": "3606658843",
@@ -485,7 +485,7 @@
     "latitude": "42.0050186",
     "amenity": "pharmacy",
     "name": "Зегин (Карпош 4)",
-    "city": "Скопје"
+    "city": "Skopje"
   },
   {
     "id": "3625167305",
@@ -493,7 +493,7 @@
     "latitude": "41.3442389",
     "amenity": "dentist",
     "name": "Д-р Караџоски",
-    "city": ""
+    "city": "Prilep"
   },
   {
     "id": "3625183275",
@@ -501,7 +501,7 @@
     "latitude": "41.3437361",
     "amenity": "dentist",
     "name": "Кристал Дент",
-    "city": ""
+    "city": "Prilep"
   },
   {
     "id": "3629405142",
@@ -509,7 +509,7 @@
     "latitude": "41.3426665",
     "amenity": "dentist",
     "name": "Дентика",
-    "city": ""
+    "city": "Prilep"
   },
   {
     "id": "3634182103",
@@ -517,7 +517,7 @@
     "latitude": "42.0009171",
     "amenity": "pharmacy",
     "name": "ЕуроФарм Тафталиџе",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "3647042375",
@@ -525,7 +525,7 @@
     "latitude": "42.1197425",
     "amenity": "hospital",
     "name": "Poliklinika \"Goce Delcev\"",
-    "city": "Куманово"
+    "city": "Kumanovo"
   },
   {
     "id": "3695356142",
@@ -533,7 +533,7 @@
     "latitude": "41.9651427",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": "Делчево"
+    "city": "Delcevo"
   },
   {
     "id": "3700058029",
@@ -541,7 +541,7 @@
     "latitude": "41.9663936",
     "amenity": "pharmacy",
     "name": "Твоја Аптека",
-    "city": "Делчево"
+    "city": "Delcevo"
   },
   {
     "id": "3700058030",
@@ -549,7 +549,7 @@
     "latitude": "41.9665995",
     "amenity": "pharmacy",
     "name": "Дел Фарм",
-    "city": "Делчево"
+    "city": "Delcevo"
   },
   {
     "id": "3700058031",
@@ -557,7 +557,7 @@
     "latitude": "41.9648802",
     "amenity": "pharmacy",
     "name": "Валеријана",
-    "city": "Делчево"
+    "city": "Delcevo"
   },
   {
     "id": "3700058032",
@@ -565,7 +565,7 @@
     "latitude": "41.9650374",
     "amenity": "pharmacy",
     "name": "Кетрин",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "3816919343",
@@ -573,7 +573,7 @@
     "latitude": "42.0256469",
     "amenity": "pharmacy",
     "name": "Eurofarm",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "3828411466",
@@ -581,7 +581,7 @@
     "latitude": "41.7162366",
     "amenity": "pharmacy",
     "name": "Еуро Фарм",
-    "city": ""
+    "city": "Veles"
   },
   {
     "id": "3830375935",
@@ -589,7 +589,7 @@
     "latitude": "41.9820014",
     "amenity": "pharmacy",
     "name": "ZEGIN",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "3832362529",
@@ -597,7 +597,7 @@
     "latitude": "41.9899658",
     "amenity": "pharmacy",
     "name": "Виола",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "3832368052",
@@ -605,7 +605,7 @@
     "latitude": "41.9898127",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4125379517",
@@ -613,7 +613,7 @@
     "latitude": "42.0009982",
     "amenity": "hospital",
     "name": "Центар за ментално здравје",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "4125379518",
@@ -621,7 +621,7 @@
     "latitude": "42.0010726",
     "amenity": "hospital",
     "name": "ПЗУ „Д-р Горица“",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "4138200603",
@@ -629,7 +629,7 @@
     "latitude": "42.0005964",
     "amenity": "hospital",
     "name": "Неуромедика",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4247656089",
@@ -637,7 +637,7 @@
     "latitude": "41.8353984",
     "amenity": "hospital",
     "name": "Hospital",
-    "city": ""
+    "city": "Gostivar"
   },
   {
     "id": "4247664089",
@@ -645,7 +645,7 @@
     "latitude": "41.7964971",
     "amenity": "pharmacy",
     "name": "Pharmacy",
-    "city": ""
+    "city": "Gostivar"
   },
   {
     "id": "4249193094",
@@ -653,7 +653,7 @@
     "latitude": "41.7386419",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Stip"
   },
   {
     "id": "4249277789",
@@ -661,7 +661,7 @@
     "latitude": "41.7379036",
     "amenity": "pharmacy",
     "name": "ЈАКА",
-    "city": ""
+    "city": "Stip"
   },
   {
     "id": "4264292908",
@@ -669,7 +669,7 @@
     "latitude": "42.0096500",
     "amenity": "pharmacy",
     "name": "Астра Фарм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4266034098",
@@ -677,7 +677,7 @@
     "latitude": "41.9850045",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4266843472",
@@ -685,7 +685,7 @@
     "latitude": "42.0044051",
     "amenity": "pharmacy",
     "name": "Kemofarmacia",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4281387289",
@@ -693,7 +693,7 @@
     "latitude": "42.0160266",
     "amenity": "hospital",
     "name": "Medical Point",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4306375307",
@@ -701,7 +701,7 @@
     "latitude": "42.0018882",
     "amenity": "dentist",
     "name": "Bela Dent",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4375519189",
@@ -709,7 +709,7 @@
     "latitude": "41.9928765",
     "amenity": "pharmacy",
     "name": "Зегин ( стара градска болница)",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4424578889",
@@ -717,7 +717,7 @@
     "latitude": "41.1171296",
     "amenity": "dentist",
     "name": "ПЗУ.ПОПОСКИ",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "4429141991",
@@ -725,7 +725,7 @@
     "latitude": "41.1169284",
     "amenity": "pharmacy",
     "name": "Betty Farmaci",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "4429142389",
@@ -733,7 +733,7 @@
     "latitude": "41.1157532",
     "amenity": "pharmacy",
     "name": "Pharmacy",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "4429142390",
@@ -741,7 +741,7 @@
     "latitude": "41.1142839",
     "amenity": "pharmacy",
     "name": "Pharmacy",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "4444127393",
@@ -749,7 +749,7 @@
     "latitude": "41.4367684",
     "amenity": "dentist",
     "name": "НЕА-ДЕНТ",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "4449621005",
@@ -757,7 +757,7 @@
     "latitude": "41.9974707",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4476978892",
@@ -765,7 +765,7 @@
     "latitude": "41.9886058",
     "amenity": "dentist",
     "name": "Ендомак",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "4478351891",
@@ -773,7 +773,7 @@
     "latitude": "41.1138247",
     "amenity": "dentist",
     "name": "PZU Terzievski",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "4502450590",
@@ -781,7 +781,7 @@
     "latitude": "41.9413078",
     "amenity": "pharmacy",
     "name": "Apoteka Narten",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4502450790",
@@ -789,7 +789,7 @@
     "latitude": "41.9414043",
     "amenity": "dentist",
     "name": "Dr. Bali",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4502450989",
@@ -797,7 +797,7 @@
     "latitude": "41.9441196",
     "amenity": "hospital",
     "name": "Bolnica Kamenjane",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4502463698",
@@ -805,7 +805,7 @@
     "latitude": "41.9437196",
     "amenity": "dentist",
     "name": "Dr. Ylber Ramadani",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4512189989",
@@ -813,7 +813,7 @@
     "latitude": "42.0179859",
     "amenity": "hospital",
     "name": "Медика Центар",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4613945889",
@@ -821,7 +821,7 @@
     "latitude": "41.9922274",
     "amenity": "dentist",
     "name": "Dr. Margita",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4614661190",
@@ -829,7 +829,7 @@
     "latitude": "41.9969243",
     "amenity": "pharmacy",
     "name": "Опоум",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4725470590",
@@ -837,7 +837,7 @@
     "latitude": "41.1441187",
     "amenity": "dentist",
     "name": "Д-р Хилда Колева",
-    "city": ""
+    "city": "Gevgelija"
   },
   {
     "id": "4776265422",
@@ -845,7 +845,7 @@
     "latitude": "42.0035328",
     "amenity": "hospital",
     "name": "ЈЗУ ЗДРАВСТВЕН ДОМ",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4846704246",
@@ -853,7 +853,7 @@
     "latitude": "41.9958705",
     "amenity": "pharmacy",
     "name": "Виола",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4846704247",
@@ -861,7 +861,7 @@
     "latitude": "41.9954508",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4879918521",
@@ -869,7 +869,7 @@
     "latitude": "41.1467275",
     "amenity": "dentist",
     "name": "ЕНДОМАК Поликлиника и Заботехничка Лабороторија",
-    "city": ""
+    "city": "Gevgelija"
   },
   {
     "id": "4885047822",
@@ -877,7 +877,7 @@
     "latitude": "42.0030792",
     "amenity": "hospital",
     "name": "ONE Hospital - Tetovo",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4906797823",
@@ -885,7 +885,7 @@
     "latitude": "41.9703608",
     "amenity": "dentist",
     "name": "Д-р Елена",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "4906799121",
@@ -893,7 +893,7 @@
     "latitude": "41.9681666",
     "amenity": "dentist",
     "name": "Д-р Здравко",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "4906876824",
@@ -901,7 +901,7 @@
     "latitude": "41.9653605",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "4908220821",
@@ -909,7 +909,7 @@
     "latitude": "41.9671338",
     "amenity": "dentist",
     "name": "Д-р Ванчо",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "4915240922",
@@ -917,7 +917,7 @@
     "latitude": "42.0094415",
     "amenity": "pharmacy",
     "name": "Зегин Апотека",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "4926298321",
@@ -925,7 +925,7 @@
     "latitude": "41.9909344",
     "amenity": "dentist",
     "name": "Скопјанка Супердент",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "4990134422",
@@ -933,7 +933,7 @@
     "latitude": "42.0024902",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5054709625",
@@ -941,7 +941,7 @@
     "latitude": "42.0042011",
     "amenity": "pharmacy",
     "name": "BETTY",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5056426626",
@@ -949,7 +949,7 @@
     "latitude": "41.4349918",
     "amenity": "pharmacy",
     "name": "Аптека \"Фарма-Медика\"",
-    "city": ""
+    "city": "Kavadarci"
   },
   {
     "id": "5094555424",
@@ -957,7 +957,7 @@
     "latitude": "42.0618376",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5130474890",
@@ -965,7 +965,7 @@
     "latitude": "41.9933702",
     "amenity": "hospital",
     "name": "Здравствен дом „Железничар“",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5160396347",
@@ -973,7 +973,7 @@
     "latitude": "41.9423987",
     "amenity": "hospital",
     "name": "Ambulanta",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "5300516121",
@@ -981,7 +981,7 @@
     "latitude": "41.9230287",
     "amenity": "pharmacy",
     "name": "Еларда",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "5333318379",
@@ -989,7 +989,7 @@
     "latitude": "42.0028618",
     "amenity": "pharmacy",
     "name": "Eurofarm",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5344777689",
@@ -997,7 +997,7 @@
     "latitude": "42.0072007",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5344777690",
@@ -1005,7 +1005,7 @@
     "latitude": "42.0073336",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5403989322",
@@ -1013,7 +1013,7 @@
     "latitude": "41.9721066",
     "amenity": "pharmacy",
     "name": "Центродел",
-    "city": ""
+    "city": "Delcevo"
   },
   {
     "id": "5601794407",
@@ -1021,7 +1021,7 @@
     "latitude": "41.9389005",
     "amenity": "hospital",
     "name": "Euroitalia",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5646430122",
@@ -1029,7 +1029,7 @@
     "latitude": "42.0130459",
     "amenity": "hospital",
     "name": "Visar",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "5672626651",
@@ -1037,7 +1037,7 @@
     "latitude": "42.1336304",
     "amenity": "pharmacy",
     "name": "Bizade",
-    "city": "Куманово"
+    "city": "Kumanovo"
   },
   {
     "id": "5761128321",
@@ -1045,7 +1045,7 @@
     "latitude": "41.0855049",
     "amenity": "hospital",
     "name": "Др.Пашковски",
-    "city": ""
+    "city": "Resen"
   },
   {
     "id": "5969332187",
@@ -1053,7 +1053,7 @@
     "latitude": "41.1348192",
     "amenity": "hospital",
     "name": "St. Erasmus Hospital",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "5999496485",
@@ -1061,7 +1061,7 @@
     "latitude": "42.1374816",
     "amenity": "hospital",
     "name": "Hitna Pomos",
-    "city": "Куманово"
+    "city": "Kumanovo"
   },
   {
     "id": "6054048888",
@@ -1069,7 +1069,7 @@
     "latitude": "41.9964634",
     "amenity": "pharmacy",
     "name": "Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6054050093",
@@ -1077,7 +1077,7 @@
     "latitude": "41.9985010",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6054050097",
@@ -1085,7 +1085,7 @@
     "latitude": "42.0004895",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": "Куманово"
+    "city": "Skopje"
   },
   {
     "id": "6079510884",
@@ -1093,7 +1093,7 @@
     "latitude": "42.0190397",
     "amenity": "pharmacy",
     "name": "VIVA",
-    "city": ""
+    "city": "Makedonska Kamenica"
   },
   {
     "id": "6079524185",
@@ -1101,7 +1101,7 @@
     "latitude": "42.0191245",
     "amenity": "pharmacy",
     "name": "Pharmacy",
-    "city": ""
+    "city": "Makedonska Kamenica"
   },
   {
     "id": "6079524186",
@@ -1109,7 +1109,7 @@
     "latitude": "42.0189979",
     "amenity": "pharmacy",
     "name": "VIVA",
-    "city": ""
+    "city": "Makedonska Kamenica"
   },
   {
     "id": "6251285572",
@@ -1133,7 +1133,7 @@
     "latitude": "41.9931161",
     "amenity": "pharmacy",
     "name": "Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6278889139",
@@ -1141,7 +1141,7 @@
     "latitude": "42.0105657",
     "amenity": "pharmacy",
     "name": "Bett",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6279836416",
@@ -1149,7 +1149,7 @@
     "latitude": "41.9907383",
     "amenity": "pharmacy",
     "name": "Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6279846683",
@@ -1157,7 +1157,7 @@
     "latitude": "41.9922216",
     "amenity": "pharmacy",
     "name": "Barnatore",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281189208",
@@ -1165,7 +1165,7 @@
     "latitude": "41.9890443",
     "amenity": "pharmacy",
     "name": "Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281672840",
@@ -1173,7 +1173,7 @@
     "latitude": "41.9980469",
     "amenity": "dentist",
     "name": "Family Dental",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281849279",
@@ -1181,7 +1181,7 @@
     "latitude": "42.0086285",
     "amenity": "pharmacy",
     "name": "АПТЕКА BARNATORE",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281849280",
@@ -1189,7 +1189,7 @@
     "latitude": "42.0082379",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281849281",
@@ -1197,7 +1197,7 @@
     "latitude": "42.0075593",
     "amenity": "pharmacy",
     "name": "Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281993272",
@@ -1205,7 +1205,7 @@
     "latitude": "42.0151742",
     "amenity": "pharmacy",
     "name": "BETTY",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281993278",
@@ -1213,7 +1213,7 @@
     "latitude": "42.0132431",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6281993283",
@@ -1221,7 +1221,7 @@
     "latitude": "42.0128994",
     "amenity": "pharmacy",
     "name": "Vita Farm",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6289927529",
@@ -1229,7 +1229,7 @@
     "latitude": "41.9751104",
     "amenity": "pharmacy",
     "name": "Еурофарм Аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6291421026",
@@ -1237,7 +1237,7 @@
     "latitude": "41.9771244",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6291421027",
@@ -1245,7 +1245,7 @@
     "latitude": "41.9762181",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6347485641",
@@ -1253,7 +1253,7 @@
     "latitude": "41.7613575",
     "amenity": "hospital",
     "name": "Партизанска болница",
-    "city": ""
+    "city": "Radovis"
   },
   {
     "id": "6384505886",
@@ -1261,7 +1261,7 @@
     "latitude": "41.7929628",
     "amenity": "hospital",
     "name": "Болница Ферид Мурад",
-    "city": ""
+    "city": "Gostivar"
   },
   {
     "id": "6812666799",
@@ -1269,7 +1269,7 @@
     "latitude": "42.1396951",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Kumanovo"
   },
   {
     "id": "6814246729",
@@ -1277,7 +1277,7 @@
     "latitude": "41.9949134",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6815918388",
@@ -1285,7 +1285,7 @@
     "latitude": "41.9982536",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6827074011",
@@ -1293,7 +1293,7 @@
     "latitude": "42.0011550",
     "amenity": "dentist",
     "name": "Hami",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "6830542298",
@@ -1301,7 +1301,7 @@
     "latitude": "41.1191275",
     "amenity": "dentist",
     "name": "Dentesa",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6830542299",
@@ -1309,7 +1309,7 @@
     "latitude": "41.1190568",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6831648787",
@@ -1317,7 +1317,7 @@
     "latitude": "41.1156874",
     "amenity": "pharmacy",
     "name": "Viafarm",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6831648818",
@@ -1325,7 +1325,7 @@
     "latitude": "41.1132284",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833100691",
@@ -1333,7 +1333,7 @@
     "latitude": "41.1176215",
     "amenity": "pharmacy",
     "name": "Maja pharm",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103289",
@@ -1341,7 +1341,7 @@
     "latitude": "41.1128537",
     "amenity": "dentist",
     "name": "Jolevski",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103385",
@@ -1349,7 +1349,7 @@
     "latitude": "41.1197458",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103389",
@@ -1357,7 +1357,7 @@
     "latitude": "41.1177349",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103489",
@@ -1365,7 +1365,7 @@
     "latitude": "41.1158373",
     "amenity": "pharmacy",
     "name": "Flos",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103501",
@@ -1373,7 +1373,7 @@
     "latitude": "41.1164144",
     "amenity": "dentist",
     "name": "Dent inn",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833103504",
@@ -1381,7 +1381,7 @@
     "latitude": "41.1183245",
     "amenity": "pharmacy",
     "name": "Viapharm",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6833104286",
@@ -1389,7 +1389,7 @@
     "latitude": "41.1145898",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6837039894",
@@ -1397,7 +1397,7 @@
     "latitude": "41.1172040",
     "amenity": "pharmacy",
     "name": "Plus pharma",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6837039900",
@@ -1405,7 +1405,7 @@
     "latitude": "41.1157903",
     "amenity": "pharmacy",
     "name": "Jaliar",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6837039903",
@@ -1413,7 +1413,7 @@
     "latitude": "41.1116502",
     "amenity": "pharmacy",
     "name": "Kami pharma",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6837039904",
@@ -1421,7 +1421,7 @@
     "latitude": "41.1113809",
     "amenity": "pharmacy",
     "name": "Mazarow",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6837046288",
@@ -1429,7 +1429,7 @@
     "latitude": "41.1166173",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Ohrid"
   },
   {
     "id": "6906971756",
@@ -1437,7 +1437,7 @@
     "latitude": "41.6389019",
     "amenity": "pharmacy",
     "name": "ZEGIN",
-    "city": ""
+    "city": "Radovis"
   },
   {
     "id": "6913306084",
@@ -1445,7 +1445,7 @@
     "latitude": "42.0247319",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "7027084885",
@@ -1453,7 +1453,7 @@
     "latitude": "41.9919437",
     "amenity": "hospital",
     "name": "Стоматолошка Ординација",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "7124138448",
@@ -1461,7 +1461,7 @@
     "latitude": "41.1834446",
     "amenity": "dentist",
     "name": "Polydent",
-    "city": "Стар Дојран"
+    "city": "Star Dojran"
   },
   {
     "id": "7173141269",
@@ -1469,7 +1469,7 @@
     "latitude": "42.0343370",
     "amenity": "hospital",
     "name": "NATURA MEDIKA",
-    "city": ""
+    "city": "Tetovo"
   },
   {
     "id": "7373066519",
@@ -1477,7 +1477,7 @@
     "latitude": "41.7436809",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Stip"
   },
   {
     "id": "7373066520",
@@ -1485,7 +1485,7 @@
     "latitude": "41.7500361",
     "amenity": "pharmacy",
     "name": "Зегин",
-    "city": ""
+    "city": "Stip"
   },
   {
     "id": "8124609217",
@@ -1493,7 +1493,7 @@
     "latitude": "42.0037470",
     "amenity": "pharmacy",
     "name": "Еурофарм аптека",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "8188519794",
@@ -1501,7 +1501,7 @@
     "latitude": "41.9968203",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "8393939617",
@@ -1509,7 +1509,7 @@
     "latitude": "41.9347627",
     "amenity": "hospital",
     "name": "lindi 2022",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "8434537936",
@@ -1517,7 +1517,7 @@
     "latitude": "41.9398219",
     "amenity": "hospital",
     "name": "PZU \"Deona MM\"",
-    "city": "Драчево"
+    "city": "Skopje"
   },
   {
     "id": "8494240822",
@@ -1525,7 +1525,7 @@
     "latitude": "42.0026365",
     "amenity": "pharmacy",
     "name": "Зегин - Моја Аптека",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "8615953943",
@@ -1533,7 +1533,7 @@
     "latitude": "42.0025921",
     "amenity": "dentist",
     "name": "Терадент",
-    "city": "Cкoпje"
+    "city": "Skopje"
   },
   {
     "id": "8745676373",
@@ -1541,7 +1541,7 @@
     "latitude": "41.9933214",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "8909816033",
@@ -1549,7 +1549,7 @@
     "latitude": "41.0269000",
     "amenity": "pharmacy",
     "name": "Еурофарм - Центар",
-    "city": ""
+    "city": "Bitola"
   },
   {
     "id": "8976090570",
@@ -1557,7 +1557,7 @@
     "latitude": "42.0555686",
     "amenity": "pharmacy",
     "name": "Еурофарм",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "9091826489",
@@ -1565,7 +1565,7 @@
     "latitude": "41.3435181",
     "amenity": "pharmacy",
     "name": "Алек Фарм",
-    "city": ""
+    "city": "Prilep"
   },
   {
     "id": "9200216066",
@@ -1573,7 +1573,7 @@
     "latitude": "41.9896172",
     "amenity": "pharmacy",
     "name": "Eurofarm",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "9200216440",
@@ -1581,7 +1581,7 @@
     "latitude": "41.9922394",
     "amenity": "pharmacy",
     "name": "Zegin",
-    "city": ""
+    "city": "Skopje"
   },
   {
     "id": "9200216556",
@@ -1589,6 +1589,6 @@
     "latitude": "42.0005157",
     "amenity": "pharmacy",
     "name": "Betty",
-    "city": ""
+    "city": "Skopje"
   }
 ]

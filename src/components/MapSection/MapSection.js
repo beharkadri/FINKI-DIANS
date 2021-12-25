@@ -122,13 +122,15 @@ const MapSection = ({ institutions }) => {
             <Marker key={obj.id} position={[obj.latitude, obj.longitude]}>
               <Popup>
                 {obj.amenity} <br /> {obj.name}.<br />
-                <span>
-                  Distance:{' '}
-                  {getDistance(location.coordinates, {
-                    lat: obj.latitude,
-                    lng: obj.longitude,
-                  })}
-                </span>
+                {location.loaded === true && (
+                  <span>
+                    Distance:{' '}
+                    {getDistance(location.coordinates, {
+                      lat: obj.latitude,
+                      lng: obj.longitude,
+                    })}
+                  </span>
+                )}
                 <br />
                 <button onClick={() => toggleHandler(obj.id)}>
                   Leave a review
