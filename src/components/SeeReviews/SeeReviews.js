@@ -6,6 +6,7 @@ const SeeReviews = ({ show, title, institutionId, close }) => {
   const { reviews } = useReviews(institutionId);
   return (
     <Modal show={show} modalTitle={title} close={close}>
+      {reviews.length === 0 && <p>No reviews found!</p>}
       {reviews.map((review, index) => (
         <Review key={index} user={review.user} content={review.content} />
       ))}

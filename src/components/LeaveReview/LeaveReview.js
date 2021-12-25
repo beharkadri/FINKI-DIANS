@@ -2,6 +2,8 @@ import { useRef, useContext } from 'react';
 import Modal from '../Modal/Modal';
 import { FirebaseContext } from '../../context/firebase';
 
+import classes from './LeaveReview.module.scss';
+
 const LeaveReview = ({ show, title, user, institutionId, close }) => {
   const { firebase } = useContext(FirebaseContext);
   const textRef = useRef();
@@ -27,14 +29,16 @@ const LeaveReview = ({ show, title, user, institutionId, close }) => {
 
   return (
     <Modal show={show} modalTitle={title} close={close}>
-      <textarea
-        placeholder='Tell us about your experiences in this institution...'
-        ref={textRef}
-      ></textarea>
-      <footer>
-        <button onClick={close}>Cancel</button>
-        <button onClick={() => submitHandler()}>Submit</button>
-      </footer>
+      <div className={classes.content}>
+        <textarea
+          placeholder='Tell us about your experiences in this institution...'
+          ref={textRef}
+        ></textarea>
+        <footer>
+          <button onClick={close}>Cancel</button>
+          <button onClick={() => submitHandler()}>Submit</button>
+        </footer>
+      </div>
     </Modal>
   );
 };

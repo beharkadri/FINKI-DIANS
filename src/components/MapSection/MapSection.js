@@ -21,6 +21,8 @@ const corner1 = L.latLng(40.5776464, 20.0139859);
 const corner2 = L.latLng(42.5040261, 23.3349122);
 const bounds = L.latLngBounds(corner1, corner2);
 
+import classes from './MapSection.module.scss';
+
 const MapSection = ({ institutions }) => {
   const [modal, setModal] = useState(false);
   const [modal1, setModal1] = useState(false);
@@ -121,23 +123,34 @@ const MapSection = ({ institutions }) => {
           filteredInstitutions.map((obj) => (
             <Marker key={obj.id} position={[obj.latitude, obj.longitude]}>
               <Popup>
-                {obj.amenity} <br /> {obj.name}.<br />
-                {location.loaded === true && (
-                  <span>
-                    Distance:{' '}
-                    {getDistance(location.coordinates, {
-                      lat: obj.latitude,
-                      lng: obj.longitude,
-                    })}
-                  </span>
-                )}
-                <br />
-                <button onClick={() => toggleHandler(obj.id)}>
-                  Leave a review
-                </button>
-                <button onClick={() => toggleHandler1(obj.id)}>
-                  See reviews
-                </button>
+                <div className={classes.popup}>
+                  <section className={classes.content}>
+                    <span>
+                      {obj.name} - {obj.amenity}
+                    </span>
+                    {location.loaded === true && (
+                      <span>
+                        Distance:{' '}
+                        {getDistance(location.coordinates, {
+                          lat: obj.latitude,
+                          lng: obj.longitude,
+                        })}
+                      </span>
+                    )}
+                  </section>
+                  <button
+                    className={classes.btn}
+                    onClick={() => toggleHandler(obj.id)}
+                  >
+                    Leave a review
+                  </button>{' '}
+                  <button
+                    className={classes.btn}
+                    onClick={() => toggleHandler1(obj.id)}
+                  >
+                    See reviews
+                  </button>
+                </div>
               </Popup>
             </Marker>
           ))}
