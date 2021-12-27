@@ -6,7 +6,6 @@
   justify-content: center;
   align-items: center;
   height: inherit;
-  //border-left: 3px solid white;
 
   h2 {
     color: white;
@@ -25,8 +24,6 @@
 
     input,
     textarea {
-      // outline: none;
-      // border: 2px solid lightgray;
       font-size: 16px;
       background-color: #c3dad1;
       border-radius: 2px;
@@ -48,6 +45,19 @@
     textarea:focus {
       background-color: #ccfffc;
       border: 2px solid white;
+    }
+  }
+
+  button {
+    background-color: transparent;
+    outline: none;
+    border: 2px solid white;
+    color: white;
+    height: 40px;
+    padding: 0 10px;
+    border-radius: 20px;
+    &:hover {
+      cursor: pointer;
     }
   }
 }

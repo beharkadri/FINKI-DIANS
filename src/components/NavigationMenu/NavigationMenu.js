@@ -162,7 +162,7 @@ const NavigationMenu = () => {
             </div>
             <h3>Search institution's city</h3>
             <select id='cities' ref={selectRef}>
-              <option value={null}>---</option>
+              <option value={null}>City</option>
               {cities.map((city, index) => (
                 <option key={city + index} value={city}>
                   {city}

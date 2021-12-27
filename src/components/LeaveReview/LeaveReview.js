@@ -19,7 +19,6 @@ const LeaveReview = ({ show, title, user, institutionId, close }) => {
         content: textRef.current.value,
       })
       .then(() => {
-        console.log('Document successfully written!');
         alert('Your review has been added successfully!');
       })
       .catch((error) => {

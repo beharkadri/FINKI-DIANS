@@ -60,14 +60,19 @@ const MapSection = ({ institutions }) => {
 
   const filterByCity = (arr) => {
     return searchParams != null && searchParams.city !== 'City'
-      ? arr.filter((institution) => institution.city === searchParams.city)
+      ? arr.filter(
+          (institution) =>
+            institution.city.toLowerCase() === searchParams.city.toLowerCase()
+        )
       : arr;
   };
 
   const filterBySearchTerm = (arr) => {
     return searchParams != null && searchParams.searchTerm !== ''
       ? arr.filter((institution) =>
-          institution.name.includes(searchParams.searchTerm)
+          institution.name
+            .toLowerCase()
+            .includes(searchParams.searchTerm.toLowerCase())
         )
       : arr;
   };

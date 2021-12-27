@@ -33,12 +33,21 @@
     @include small-screen-and-more {
       position: static;
       width: 250px;
+      height: 200px;
+    }
+    @include xxlarge-screen-and-more {
+      position: static;
+      width: 250px;
       height: auto;
     }
   }
   h1 {
     display: none;
     @include small-screen-and-more {
+      font-size: 30px;
+      display: block;
+    }
+    @include xxlarge-screen-and-more {
       font-size: 40px;
       display: block;
     }

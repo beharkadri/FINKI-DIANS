@@ -8,8 +8,9 @@ const TeamSection = () => {
     <div className={styles.team}>
       <h2>Our Team</h2>
       <div className={styles.members}>
-        {teamData.map((member) => (
+        {teamData.map((member, index) => (
           <Card
+            key={index}
             picture={member.picture}
             name={member.name}
             description={member.description}

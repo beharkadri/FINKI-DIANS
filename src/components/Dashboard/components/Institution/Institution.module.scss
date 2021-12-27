@@ -1,0 +1,45 @@
+.institution {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  border-bottom: 1px solid green;
+  align-items: center;
+  .information {
+    width: 80%;
+    padding-left: 10px;
+  }
+  .actions {
+    width: 20%;
+    display: flex;
+    justify-content: flex-end;
+    //border: 1px solid red;
+  }
+}
+
+.form {
+  div {
+    display: flex;
+    margin-bottom: 10px;
+    span {
+      width: 30%;
+    }
+  }
+}
+footer {
+  text-align: right;
+
+  button {
+    background-color: #34735c;
+    color: white;
+    border: 0;
+    padding: 8px 15px;
+    margin: 10px 0 0 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #184e3a;
+    border-color: #184e3a;
+  }
+}
