@@ -1,0 +1,28 @@
+@import "../../global/styles.scss";
+
+.popup {
+  text-align: center;
+
+  .content {
+    padding-bottom: 10px;
+
+    span {
+      font-size: 18px;
+      color: #34735c;
+    }
+  }
+
+  .btn {
+    background-color: #34735c;
+    color: white;
+    border: 0;
+    padding: 8px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    background-color: #184e3a;
+    border-color: #184e3a;
+  }
+}
