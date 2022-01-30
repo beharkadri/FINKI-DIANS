@@ -1,4 +1,4 @@
-const express = require('express');
+/*const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 require('firebase/firestore');
@@ -55,4 +55,19 @@ app.post('/institutions', (req, res) => {
 
 app.listen(process.env.PORT || 3000, () => {
   console.log('Listening on 4000');
-});
+});*/
+// create an express app
+const express = require("express")
+const app = express()
+
+// use the express-static middleware
+app.use(express.static("public"))
+
+// define the first route
+app.get("/", function (req, res) {
+  res.send("<h1>Hello World!</h1>")
+})
+
+// start the server listening for requests
+app.listen(process.env.PORT || 3000, 
+	() => console.log("Server is running..."));
