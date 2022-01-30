@@ -53,6 +53,6 @@ app.post('/institutions', (req, res) => {
   res.status(201);
 });
 
-app.listen(4000, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.log('Listening on 4000');
 });
