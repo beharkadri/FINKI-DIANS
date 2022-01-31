@@ -1,20 +1,21 @@
-import { useState, useContext } from 'react';
+import { useState } from 'react';
+import axios from 'axios';
 import useContent from '../../hooks/use-content';
 
 import Institutions from './components/Institutions/Institutions';
 import Feedback from './components/Feedback/Feedback';
 import Modal from '../../components/Modal/Modal';
 
-import { FirebaseContext } from '../../context/firebase';
-
 import styles from './Dashboard.module.scss';
 
 const Dashboard = () => {
-  const { institutions } = useContent('institutions');
+  const { institutions } = useContent(
+    'https://healthmap-institutions.herokuapp.com/institutions',
+    'institutions'
+  );
 
   const [show, setShow] = useState(false);
   const [feedback, setFeedback] = useState(false);
-  const { firebase } = useContext(FirebaseContext);
 
   const [id, setId] = useState('');
   const [name, setName] = useState('');
@@ -46,15 +47,16 @@ const Dashboard = () => {
         longitude: long,
       };
 
-      firebase
-        .firestore()
-        .collection('institutions')
-        .add(newInstitution)
-        .then(() => {
-          alert(`Institution ${newInstitution.name} successfully added!`);
+      axios
+        .post('https://healthmap-institutions.herokuapp.com/institutions', {
+          ...newInstitution,
         })
-        .catch((error) => {
-          console.error('Error writing document: ', error);
+        .then((response) => {
+          if (response.status === 201) {
+            alert(`Institution ${newInstitution.name} successfully added!`);
+          } else {
+            alert(`Institution ${newInstitution.name} couldn't be added!`);
+          }
         });
     }
   };

@@ -7,7 +7,10 @@ import classes from './AdminAuthForm.module.scss';
 const AdminAuthForm = () => {
   const emailInputRef = useRef(null);
   const passwordInputRef = useRef(null);
-  const { admin } = useContent('admin');
+  const { admin } = useContent(
+    'https://healthmap-auth.herokuapp.com/admin',
+    'admin'
+  );
   const history = useHistory();
 
   const submitHandler = (e) => {

@@ -1,26 +1,11 @@
-import { useEffect, useState, useContext } from 'react';
-import { FirebaseContext } from '../context/firebase';
+import { useEffect, useState } from 'react';
+import axios from 'axios';
 
-export default function useContent(target) {
+export default function useContent(url, target) {
   const [content, setContent] = useState([]);
-  const { firebase } = useContext(FirebaseContext);
 
   useEffect(() => {
-    firebase
-      .firestore()
-      .collection(target)
-      .get()
-      .then((snapshot) => {
-        const allContent = snapshot.docs.map((contentObj) => ({
-          ...contentObj.data(),
-          docId: contentObj.id,
-        }));
-
-        setContent(allContent);
-      })
-      .catch((error) => {
-        console.log(error.message);
-      });
+    axios.get(url).then((response) => setContent(response.data));
     //eslint-disable-next-line
   }, []);
 

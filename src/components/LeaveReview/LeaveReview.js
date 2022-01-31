@@ -1,28 +1,28 @@
-import { useRef, useContext } from 'react';
+import { useRef } from 'react';
 import Modal from '../Modal/Modal';
-import { FirebaseContext } from '../../context/firebase';
+import axios from 'axios';
 
 import classes from './LeaveReview.module.scss';
 
 const LeaveReview = ({ show, title, user, institutionId, close }) => {
-  const { firebase } = useContext(FirebaseContext);
   const textRef = useRef();
 
   const submitHandler = () => {
-    // Add a new document in collection "reviews"
-    firebase
-      .firestore()
-      .collection('reviews')
-      .add({
-        institutionId: institutionId,
-        user: user,
-        content: textRef.current.value,
+    const review = {
+      institutionId: institutionId,
+      user: user,
+      content: textRef.current.value,
+    };
+    axios
+      .post('https://healthmap-reviews.herokuapp.com/reviews', {
+        ...review,
       })
-      .then(() => {
-        alert('Your review has been added successfully!');
-      })
-      .catch((error) => {
-        console.error('Error writing document: ', error);
+      .then((response) => {
+        if (response.status === 201) {
+          alert('Your review has been added successfully!');
+        } else {
+          alert(`Your review couldn't be added. Try again later!`);
+        }
       });
   };
 

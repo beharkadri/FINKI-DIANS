@@ -1,21 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
-import { firebase } from './lib/firebase.prod';
-import { FirebaseContext } from './context/firebase';
 import { AuthContextProvider } from './context/auth-context';
+
+import './index.css';
 
 ReactDOM.render(
   <AuthContextProvider>
-    <FirebaseContext.Provider value={{ firebase }}>
-      <React.StrictMode>
-        <BrowserRouter>
-          <App />
-        </BrowserRouter>
-      </React.StrictMode>
-    </FirebaseContext.Provider>
+    <React.StrictMode>
+      <BrowserRouter>
+        <App />
+      </BrowserRouter>
+    </React.StrictMode>
   </AuthContextProvider>,
   document.getElementById('root')
 );

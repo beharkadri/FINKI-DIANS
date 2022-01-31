@@ -1,11 +1,14 @@
 import Modal from '../Modal/Modal';
 import Review from './Review/Review';
-import useReviews from '../../hooks/use-reviews';
+import useContent from '../../hooks/use-content';
 
 import styles from './SeeReviews.module.scss';
 
 const SeeReviews = ({ show, title, institutionId, close }) => {
-  const { reviews } = useReviews(institutionId);
+  const { reviews } = useContent(
+    'https://healthmap-reviews.herokuapp.com/reviews/' + institutionId,
+    'reviews'
+  );
   return (
     <Modal show={show} modalTitle={title} close={close}>
       {reviews.length === 0 && <p>No reviews found!</p>}

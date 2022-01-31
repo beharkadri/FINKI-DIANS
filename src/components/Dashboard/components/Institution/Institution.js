@@ -1,11 +1,11 @@
-import styles from './Institution.module.scss';
 import Modal from '../../../Modal/Modal';
-import { useState, useContext } from 'react';
-import { FirebaseContext } from '../../../../context/firebase';
+import { useState } from 'react';
+import axios from 'axios';
+
+import styles from './Institution.module.scss';
 
 const Institution = (props) => {
   const [show, setShow] = useState(false);
-  const { firebase } = useContext(FirebaseContext);
 
   const [name, setName] = useState(props.name);
   const [amenity, setAmenity] = useState(props.amenity);
@@ -39,17 +39,21 @@ const Institution = (props) => {
         longitude: long,
         docId: docId,
       };
-      firebase
-        .firestore()
-        .collection('institutions')
-        .doc(docId)
-        .set(editedInstitution)
-        .then(() => {
-          alert('Edited successfully');
-          props = editedInstitution;
-        })
-        .catch((error) => {
-          console.error('Error writing document: ', error);
+      axios
+        .put(
+          'https://healthmap-institutions.herokuapp.com/institutions/' + docId,
+          {
+            ...editedInstitution,
+          }
+        )
+        .then((response) => {
+          console.log(response);
+          if (response.status === 204) {
+            alert(`Institution ${editedInstitution.name} successfully edited!`);
+            props = editedInstitution;
+          } else {
+            alert(`Editing error!`);
+          }
         });
     }
   };
@@ -58,7 +62,17 @@ const Institution = (props) => {
     if (
       window.confirm(`Are you sure you want to delete ${props.name}`) === true
     )
-      firebase.firestore().collection('institutions').doc(docId).delete();
+      axios
+        .delete(
+          'https://healthmap-institutions.herokuapp.com/institutions/' + docId
+        )
+        .then((response) => {
+          if (response.status === 204)
+            alert(`Institution with ID ${docId} successfully deleted!`);
+          else {
+            alert(`Error!`);
+          }
+        });
   };
 
   return (

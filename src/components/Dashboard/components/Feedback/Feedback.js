@@ -3,7 +3,10 @@ import useContent from '../../../../hooks/use-content';
 import styles from './Feedback.module.scss';
 
 const Feedback = () => {
-  const { feedback } = useContent('feedback');
+  const { feedback } = useContent(
+    'https://healthmap-auth.herokuapp.com/feedback',
+    'feedback'
+  );
 
   return feedback.map((feedback, index) => (
     <div key={index} className={styles.feedback}>

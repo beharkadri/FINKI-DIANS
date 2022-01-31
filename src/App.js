@@ -8,11 +8,12 @@ import HomePage from './pages/HomePage';
 import Map from './pages/Map';
 import FeedBack from './pages/Feedback';
 import Team from './pages/Team';
-import './App.scss';
 import AuthPage from './pages/AuthPage';
 import AuthContext from './context/auth-context';
 import Admin from './pages/Admin';
 import AdminLogin from './pages/AdminLogin';
+
+import './App.scss';
 
 const App = () => {
   const [searchParams, setSearchParams] = useState(null);

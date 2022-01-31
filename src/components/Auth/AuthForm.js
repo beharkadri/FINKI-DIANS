@@ -1,6 +1,7 @@
 import { useState, useRef, useContext } from 'react';
 import { useHistory } from 'react-router-dom';
 import AuthContext from '../../context/auth-context';
+import axios from 'axios';
 
 import classes from './AuthForm.module.scss';
 
@@ -28,43 +29,23 @@ const AuthForm = () => {
 
     setIsLoading(true);
 
-    let url = '';
-
-    if (isLogin) {
-      url =
-        'https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=AIzaSyCDzJKSbCe9lSqr6yR6-2dBjMyDkUfUs5k';
-    } else {
-      url =
-        'https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=AIzaSyCDzJKSbCe9lSqr6yR6-2dBjMyDkUfUs5k';
-    }
-
-    fetch(url, {
-      method: 'POST',
-      body: JSON.stringify({
+    axios
+      .post('https://healthmap-auth.herokuapp.com/auth', {
+        isLogin: isLogin,
         email: enteredEmail,
         password: enteredPassword,
         returnSecureToken: true,
-      }),
-
-      headers: {
-        'Content-Type': 'application/json',
-      },
-    })
+      })
       .then((res) => {
         setIsLoading(false);
-        if (res.ok) {
+        if (res.status === 200) {
           emailInputRef.current.value = '';
           passwordInputRef.current.value = '';
-          return res.json();
+          authCtx.login(res.data.stsTokenManager.accessToken, res.data.email);
+          history.replace('/');
         } else {
-          return res.json().then((data) => {
-            throw new Error(data.error.message);
-          });
+          alert(res.data.errorMessage);
         }
-      })
-      .then((data) => {
-        authCtx.login(data.idToken, data.email);
-        history.replace('/');
       })
       .catch((err) => alert(err.message));
   };

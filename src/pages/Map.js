@@ -4,7 +4,10 @@ import MobileMapMenu from '../components/NavigationMenu/MobileMapMenu/MobileMapM
 import useContent from '../hooks/use-content';
 
 const Map = () => {
-  const { institutions } = useContent('institutions');
+  const { institutions } = useContent(
+    'https://healthmap-institutions.herokuapp.com/institutions',
+    'institutions'
+  );
 
   return (
     <>

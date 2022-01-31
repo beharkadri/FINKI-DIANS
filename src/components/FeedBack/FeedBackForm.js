@@ -1,28 +1,30 @@
 import { useContext, useRef } from 'react';
 import AuthContext from '../../context/auth-context';
-import { FirebaseContext } from '../../context/firebase';
+import axios from 'axios';
 
 import styles from './FeedBackForm.module.scss';
 
 function FeedBackForm() {
-  const { firebase } = useContext(FirebaseContext);
   const authCtx = useContext(AuthContext);
   const nameRef = useRef(null);
   const messageRef = useRef(null);
   const submitHandler = () => {
-    firebase
-      .firestore()
-      .collection('feedback')
-      .add({
-        name: nameRef.current.value,
-        email: authCtx.email,
-        message: messageRef.current.value,
+    const feedback = {
+      name: nameRef.current.value,
+      email: authCtx.email,
+      message: messageRef.current.value,
+    };
+
+    axios
+      .post('https://healthmap-auth.herokuapp.com/feedback', {
+        ...feedback,
       })
-      .then(() => {
-        alert('Your feedback is sent successfully!');
-      })
-      .catch((error) => {
-        console.error('Error writing document: ', error);
+      .then((response) => {
+        if (response.status === 201) {
+          alert('Your feedback has been sent.');
+        } else {
+          alert("Your feedback couldn't be sent. Try later");
+        }
       });
   };
 
