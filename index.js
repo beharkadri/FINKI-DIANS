@@ -29,7 +29,7 @@ app.get('/institutions', (req, res) => {
         ...contentObj.data(),
         docId: contentObj.id,
       }));
-      res.send(allContent);
+      res.status(200).send(allContent);
     })
     .catch((error) => {
       console.log(error.message);
@@ -38,7 +38,7 @@ app.get('/institutions', (req, res) => {
 
 app.post('/institutions', (req, res) => {
   const reqBody = req.body;
-
+  let status = 201;
   firebase
     .firestore()
     .collection('institutions')
@@ -48,11 +48,50 @@ app.post('/institutions', (req, res) => {
     })
     .catch((error) => {
       console.error('Error writing document: ', error);
+      status = 400;
     });
 
-  res.status(201);
+  res.status(status).send();
 });
 
-app.listen(process.env.PORT || 3000, () => {
-  console.log('Listening on ' + process.env.PORT);
+app.put('/institutions/:id', (req, res) => {
+  const reqBody = req.body;
+  let status = 204;
+  firebase
+    .firestore()
+    .collection('institutions')
+    .doc(req.params.id)
+    .set(reqBody)
+    .then(() => {
+      console.log(`Institution ${reqBody.name} successfully edited!`);
+    })
+    .catch((error) => {
+      console.error('Error writing document: ', error);
+      status = 400;
+    });
+  res.status(status).send();
 });
+
+app.delete('/institutions/:id', (req, res) => {
+  let status = 204;
+  firebase
+    .firestore()
+    .collection('institutions')
+    .doc(req.params.id)
+    .delete()
+    .then(() => {
+      console.log(`Institution ${req.params.id} successfully deleted!`);
+    })
+    .catch((error) => {
+      console.error('Error writing document: ', error);
+      status = 400;
+    });
+  res.status(status).send();
+});
+
+const PORT = process.env.PORT || 4000;
+
+app.listen(PORT, () => {
+  console.log('Listening on ' + PORT);
+});
+
